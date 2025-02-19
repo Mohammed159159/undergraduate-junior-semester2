@@ -1,0 +1,73 @@
+{
+  "defaultVolume": 80,
+  "devices": [
+    {
+      "appId": "f9e16b5128d14d0b",
+      "name": "LAPTOP-O1ESVCO6"
+    }
+  ],
+  "defaultMxLinkClick": {
+    "click": "split",
+    "alt": "window"
+  },
+  "linkHandler": {
+    "mx-embed": [
+      {
+        "protocol": "https:",
+        "hostname": "youtu.be",
+        "pathname": "/bAQfPQqKCHs",
+        "port": ""
+      },
+      {
+        "protocol": "https:",
+        "hostname": "www.youtube.com",
+        "pathname": "/watch",
+        "port": ""
+      },
+      {
+        "protocol": "https:",
+        "hostname": "youtu.be",
+        "pathname": "/ZGyswgp9Kc8",
+        "port": ""
+      },
+      {
+        "protocol": "https:",
+        "hostname": "youtu.be",
+        "port": ""
+      },
+      {
+        "protocol": "https:",
+        "hostname": "www.youtube.com",
+        "port": ""
+      }
+    ],
+    "mx-url-audio": [
+      {
+        "protocol": "https:",
+        "hostname": "engasuedu.sharepoint.com",
+        "port": ""
+      }
+    ],
+    "mx-url-video": [],
+    "mx-webpage": []
+  },
+  "speedStep": 1,
+  "loadStrategy": "eager",
+  "timestampTemplate": "> [!Note] {{TIMESTAMP}} \n\n---\n\n",
+  "screenshotTemplate": "> [!time] {{TIMESTAMP}}\n  > !{{SCREENSHOT}}\n   > \n\n---\n\n",
+  "screenshotEmbedTemplate": "{{TITLE}}{{DURATION}}",
+  "insertBefore": false,
+  "timestampOffset": 0,
+  "biliDefaultQuality": 80,
+  "screenshotFormat": "image/png",
+  "screenshotQuality": 1,
+  "enableSubtitle": false,
+  "screenshotFolderPath": "Meta/assets/Images",
+  "urlMappingData": [
+    {
+      "appId": "f9e16b5128d14d0b",
+      "protocol": "iframe",
+      "replace": "https://youtu.be"
+    }
+  ]
+}

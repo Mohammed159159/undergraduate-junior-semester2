@@ -1,0 +1,3 @@
+- [[Binary link]]
+- [[Ternary link]]
+- [[Quaternary link]]

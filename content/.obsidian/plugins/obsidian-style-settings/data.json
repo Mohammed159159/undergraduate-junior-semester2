@@ -1,0 +1,9 @@
+{
+  "encore-settings@@encore-translucency": true,
+  "encore-settings@@colors": "encore-colors-colorful",
+  "encore-settings@@encore-disable-grain": true,
+  "encore-settings@@encore-translucency-background": "encore-bg-image",
+  "encore-settings@@encore-coloured-tooltip": false,
+  "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
+  "encore-settings@@encore-disable-logo-on-hr": true
+}

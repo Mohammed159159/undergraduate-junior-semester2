@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"02 Mechanics of Machines\"  -tag:#resources  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#moc/areas  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#moc  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 0.757068607068607,
+  "lineSizeMultiplier": 2.04064449064449,
+  "collapse-forces": false,
+  "centerStrength": 0.795218295218295,
+  "repelStrength": 20,
+  "linkStrength": 0.5997920997921,
+  "linkDistance": 30,
+  "scale": 0.21971865562717893,
+  "close": true
+}

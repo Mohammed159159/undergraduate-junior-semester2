@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "d10d2d535bb39289",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdfb71ccc29eaafb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c93fcba8281f88",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbb3f84848d7d65a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dddd1bc953edef2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eadbd9534800a3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5166841d0b32c879",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c2f9ec01b17ff233",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eceff8dd2f36b569",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3291e90a9a9acd00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 481.5
+  },
+  "right": {
+    "id": "70c451610fed16e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad8b6b5af28ea9e",
+        "type": "tabs",
+        "dimension": 39.120370370370374,
+        "children": [
+          {
+            "id": "4d25dfbeb785e408",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Temperature Measurements   Part I.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Temperature Measurements   Part I"
+            }
+          },
+          {
+            "id": "d805053e6441741b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d98278a01e5daa9b",
+        "type": "tabs",
+        "dimension": 60.879629629629626,
+        "children": [
+          {
+            "id": "d13a0861278e7b80",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "-tag:#resources -tag:#moc  ",
+                  "localJumps": 5,
+                  "localBacklinks": false,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -2,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 18.5654885654886,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6154046981893381,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b1777265e743d897",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 Measurements and Intrumentation/Lectures/lecture 4-2.pdf - Google Drive.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lecture 4-2.pdf - Google Drive"
+            }
+          },
+          {
+            "id": "e50f11f4bfb10eb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "audio-recorder:Start/stop recording": false,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": true,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+    }
+  },
+  "active": "69c93fcba8281f88",
+  "lastOpenFiles": [
+    "Obsidian/Undergraduate - Junior - S1/04 Introduction to Programming/C++.md",
+    "Obsidian/Misc/Reading forums' feature request.md",
+    "Creep.md",
+    "Obsidian/Misc/Metallurgy and Materials Testing.md",
+    "Obsidian/Misc/Jominy test.md",
+    "Obsidian/Misc/Introduction to Electronics.md",
+    "Obsidian/Misc/Human Rights.md",
+    "Obsidian/Misc/How should I make YouTube videos as a beginner.md",
+    "Obsidian/Misc/ACES Projects.md",
+    "Obsidian/Misc/College Courses.md",
+    "Obsidian/Misc/Sophomore.md",
+    "Obsidian/Thoughts/Sophisticated self-improvement.md",
+    "02 Logic Design/Logic_Old_Exams.pdf",
+    "02 Logic Design/Logic final.md",
+    "02 Logic Design/fall 22_مشروح.pdf",
+    "You're not unreasonably wrong.md",
+    "02 Logic Design/Lectures/04 - Sequential Circuits/7-Registers.pdf - Google Drive.md",
+    "02 Logic Design/Lectures/04 - Sequential Circuits/8-Counters.pdf - Google Drive.md",
+    "02 Logic Design/digital design exams_annotated.pdf",
+    "02 Logic Design/Lectures/01 - Numbering Systems/Numbering system-Logic Design.pdf - Google Drive.md",
+    "02 Logic Design/Logic Fall 23_مشروح.pdf",
+    "02 Logic Design/Lectures/02 - Boolean Algebra Mechanics/3-Digital Logic Design.pdf - Google Drive.md",
+    "02 Logic Design/Lectures/03 - Combinational Circuits/Combinational Circuits - Google Drive.md",
+    "02 Logic Design/Lectures/03 - Combinational Circuits/Chapter 2 - part 1.pdf - Google Drive.md",
+    "02 Logic Design/Lectures/02 - Boolean Algebra Mechanics/Chapter 2 - Part  2.pdf - Google Drive.md",
+    "02 Logic Design/Why numbering systems.md",
+    "Meta/assets/Pasted image 20250122132040.png",
+    "02 Logic Design/Lectures/04 - Sequential Circuits/6-Analysis of Sequential Circuits-chapter 5.pdf - Google Drive.md",
+    "02 Logic Design/Lectures/04 - Sequential Circuits/5-Design Procedure-chapter 5.pdf - Google Drive.md",
+    "02 Logic Design/Lectures/04 - Sequential Circuits/3-D Latches-chapter 5.pdf - Google Drive.md",
+    "02 Logic Design/Lectures/04 - Sequential Circuits/2-SR Latches-chapter 5.pdf - Google Drive.md",
+    "02 Logic Design/Solution_Manual_Digital_Design_With_an_Introduction_to_the_Verilog_HDL_5th_Edition_by_M._Morris_R_._Mano_(Author),_Michael_D_._Ciletti_(Author)_.pdf",
+    "02 Logic Design/M. Morris Mano, Michael D. Ciletti - Digital Design_ With an Introduction to the Verilog HDL-Prentice .pdf",
+    "02 Logic Design/LOGIC TEXT BOOK.pdf",
+    "02 Logic Design/Digital Design 4th Edition - Morris Mano.pdf",
+    "02 Logic Design/Solution_Manual_Digital_Design_With_an_Introduction_to_the_Verilog_HDL_5th_Edition_by_M._Morris_R_._Mano_(Author),_Michael_D_._Ciletti_(Author)_.pdf.crdownload",
+    "05 Measurements and Intrumentation/-Note-05-38_annotated.pdf",
+    "General/Final.jpg",
+    "Meta/assets/WhatsApp Image 2025-01-13 at 19.56.51_c389b7e3.jpg",
+    "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.32_a02ed705.jpg",
+    "Meta/assets/WhatsApp Image 2025-01-13 at 19.22.23_d437a4c4.jpg",
+    "Untitled.canvas",
+    "Meta/assets/Pasted image 20250120120753.png",
+    "Meta/assets/Pasted image 20250120120711.png",
+    "Meta/assets/Pasted image 20250120085526.png",
+    "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.19_b377eea9.jpg",
+    "05 Measurements and Intrumentation/Bernoulli.jpg",
+    "Meta/assets/Canvases/Untitled.canvas",
+    "Meta/assets/Canvases/Untitled 1.canvas",
+    "Meta/Untitled.canvas",
+    "🗃️ assets/🎨 Canvases/Untitled.canvas"
+  ]
+}

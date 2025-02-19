@@ -1,0 +1,3 @@
+- [[Longitudinal Strain]]
+- [[Lateral Strain]]
+- [[Poisson's Ratio]]
