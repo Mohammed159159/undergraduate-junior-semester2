@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2dead64c37a5f7c",
+            "id": "af633543357947df",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpnSlMzWm9tX2M0SXFFVTlBTVliZWxOV3B5dTVURG1m",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpnSlMzWm9tX2M0SXFFVTlBTVliZWxOV3B5dTVURG1m",
+              "title": "Spring'25 Drive"
             }
           }
         ]
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334,
-    "collapsed": true
+    "width": 334
   },
   "right": {
     "id": "70c451610fed16e6",
@@ -235,11 +234,14 @@
       "open-gate:Spring'25 Drive": false,
       "open-gate:Google Calendar": false,
       "open-gate:YouTube": false,
-      "open-gate:LMS": false
+      "open-gate:LMS": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e2dead64c37a5f7c",
+  "active": "af633543357947df",
   "lastOpenFiles": [
+    "04 Fluid Mechanics and Turbo Machinery/Lectures/Lecture 1 & 2 - Fundamental Concepts/Lec. 1-2.pdf - Google Drive.md",
+    "Meta/assets/Excalidraw/Drawing 2025-02-20 20.49.34.excalidraw.md",
     "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
     "01 Machine Construction/Lectures/Lecture 1 - Introduction/Introduction.md",
     "01 Machine Construction/Material Strength.md",
@@ -272,8 +274,6 @@
     "04 Fluid Mechanics and Turbo Machinery/Density.md",
     "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorials.md",
     "04 Fluid Mechanics and Turbo Machinery/Lectures/Lectures.md",
-    "04 Fluid Mechanics and Turbo Machinery/Lectures/Lecture 1 & 2 - Fundamental Concepts/Lecture 2.md",
-    "04 Fluid Mechanics and Turbo Machinery/Lectures/Lecture 1 & 2 - Fundamental Concepts/Lecture 1  part 2.md",
     "Meta/assets/Pasted image 20250218150419.png",
     "Meta/assets/Pasted image 20250218145936.png",
     "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorial 1 - Viscosity and Shear Stress",

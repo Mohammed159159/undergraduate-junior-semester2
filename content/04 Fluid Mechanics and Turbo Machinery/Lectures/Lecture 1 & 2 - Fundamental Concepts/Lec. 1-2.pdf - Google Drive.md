@@ -1,18 +1,18 @@
 ---
 tags:
-- resources/articles
+  - resources/articles
 status:
-- not_consumed
-- no_moc
-- no_friend
-- no_action
-annotation-target: https://drive.google.com/uc?export=download&id=1vHYvn6DlfljIfKdh0-YYmvHBr-WdV3B0
+  - not_consumed
+  - no_moc
+  - no_friend
+  - no_action
+annotation-target: https://drive.google.com/uc?export=download&id=1IkpkGerRKXLMI_UPUcYDgD5kbcw0yW9K
 annotation-target-type: pdf
 ---
 
 | [Open Original](https://drive.google.com/file/d/1vHYvn6DlfljIfKdh0-YYmvHBr-WdV3B0/view?usp=drive_link) |
 | ------------------------------------------ |
-<iframe src="https://drive.google.com/file/d/1vHYvn6DlfljIfKdh0-YYmvHBr-WdV3B0/preview" style="width:100%; aspect-ratio:1" frameborder="0" allow-popups-to-escape-sandbox></iframe>
+<iframe src="https://drive.google.com/file/d/1IkpkGerRKXLMI_UPUcYDgD5kbcw0yW9K/preview" style="width:100%; aspect-ratio:1" frameborder="0" allow-popups-to-escape-sandbox></iframe>
 
 
 
