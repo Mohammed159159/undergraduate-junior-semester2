@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "d10d2d535bb39289",
+    "type": "split",
+    "children": [
+      {
+        "id": "535dfe83248434a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2dead64c37a5f7c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbb3f84848d7d65a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dddd1bc953edef2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eadbd9534800a3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5166841d0b32c879",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c2f9ec01b17ff233",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eceff8dd2f36b569",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3291e90a9a9acd00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334,
+    "collapsed": true
+  },
+  "right": {
+    "id": "70c451610fed16e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad8b6b5af28ea9e",
+        "type": "tabs",
+        "dimension": 39.120370370370374,
+        "children": [
+          {
+            "id": "4d25dfbeb785e408",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d805053e6441741b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d98278a01e5daa9b",
+        "type": "tabs",
+        "dimension": 60.879629629629626,
+        "children": [
+          {
+            "id": "d13a0861278e7b80",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "-tag:#resources -tag:#moc",
+                  "localJumps": 3,
+                  "localBacklinks": false,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 2.30550935550936,
+                  "collapse-forces": false,
+                  "centerStrength": 0.6995841995842,
+                  "repelStrength": 20,
+                  "linkStrength": 0,
+                  "linkDistance": 500,
+                  "scale": 0.7005187883618991,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b1777265e743d897",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05 Measurements and Intrumentation/Lectures/lecture 4-2.pdf - Google Drive.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lecture 4-2.pdf - Google Drive"
+            }
+          },
+          {
+            "id": "e50f11f4bfb10eb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 659.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "audio-recorder:Start/stop recording": false,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": true,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "open-gate:Spring'25 Drive": false,
+      "open-gate:Google Calendar": false,
+      "open-gate:YouTube": false,
+      "open-gate:LMS": false
+    }
+  },
+  "active": "e2dead64c37a5f7c",
+  "lastOpenFiles": [
+    "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
+    "01 Machine Construction/Lectures/Lecture 1 - Introduction/Introduction.md",
+    "01 Machine Construction/Material Strength.md",
+    "Meta/assets/وعي ٨٥  إيه هو التدين و يعني إيه ملتزم؟ - التدين و الالتزام ١ 2025-02-13 17.20.54.excalidraw.md",
+    "01 Machine Construction/Supports.md",
+    "01 Machine Construction/Reactions.md",
+    "01 Machine Construction/Types of Supports.md",
+    "04 Fluid Mechanics and Turbo Machinery/Viscosity 1.md",
+    "Meta/assets/Pasted image 20250218234642.png",
+    "01 Machine Construction/Stress.md",
+    "Meta/assets/Pasted image 20250218232958.png",
+    "Meta/assets/Pasted image 20250218232927.png",
+    "Meta/assets/Pasted image 20250218232906.png",
+    "04 Fluid Mechanics and Turbo Machinery/Stress Field.md",
+    "01 Machine Construction/Strain.md",
+    "Stress.md",
+    "Meta/assets/Pasted image 20250218232058.png",
+    "Meta/assets/Pasted image 20250218231433.png",
+    "Meta/assets/Pasted image 20250218230845.png",
+    "Meta/assets/Pasted image 20250218224939.png",
+    "04 Fluid Mechanics and Turbo Machinery/Viscosity.md",
+    "04 Fluid Mechanics and Turbo Machinery/Uniform.md",
+    "04 Fluid Mechanics and Turbo Machinery/Specific Gravity.md",
+    "04 Fluid Mechanics and Turbo Machinery/Shear Force.md",
+    "04 Fluid Mechanics and Turbo Machinery/Steady.md",
+    "04 Fluid Mechanics and Turbo Machinery/Fluid Properties.md",
+    "04 Fluid Mechanics and Turbo Machinery/Gradient.md",
+    "04 Fluid Mechanics and Turbo Machinery/Fluid (conflict 2025-02-18-22-25-59).md",
+    "01 Machine Construction/Shear.md",
+    "04 Fluid Mechanics and Turbo Machinery/Density.md",
+    "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorials.md",
+    "04 Fluid Mechanics and Turbo Machinery/Lectures/Lectures.md",
+    "04 Fluid Mechanics and Turbo Machinery/Lectures/Lecture 1 & 2 - Fundamental Concepts/Lecture 2.md",
+    "04 Fluid Mechanics and Turbo Machinery/Lectures/Lecture 1 & 2 - Fundamental Concepts/Lecture 1  part 2.md",
+    "Meta/assets/Pasted image 20250218150419.png",
+    "Meta/assets/Pasted image 20250218145936.png",
+    "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorial 1 - Viscosity and Shear Stress",
+    "04 Fluid Mechanics and Turbo Machinery/Tutorials",
+    "04 Fluid Mechanics and Turbo Machinery/Lectures/Lecture 1 & 2 - Fundamental Concepts",
+    "04 Fluid Mechanics and Turbo Machinery/Lectures",
+    "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision",
+    "03 Casting and Welding/Labs",
+    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms",
+    "01 Machine Construction/Lectures/Lecture 1 - Introduction",
+    "01 Machine Construction/Lectures",
+    "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions",
+    "Untitled.canvas",
+    "Meta/assets/Canvases/Untitled.canvas",
+    "Meta/assets/Canvases/Untitled 1.canvas",
+    "Meta/Untitled.canvas",
+    "🗃️ assets/🎨 Canvases/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "token": "6879-4WPcm87SB7aQKVbYAjXHXjKzzasiVW5EoMM31G18EfQ",
+  "user": "acct:mohammedhany300@hypothes.is",
+  "highlightsFolder": "/",
+  "isConnected": true,
+  "template": "<% tp.user.embedHighlight(\"{{url}}\") %>\n{{\"\"}}\n{%- if page_notes | length %}## Page Notes\n---{% for highlight in page_notes -%}\n{{\"\"}}\n> *{{highlight.annotation}}*\n{%- if highlight.tags | length %}\n{{\"\"}}\n{% for tag in highlight.tags -%}\n#{{tag | replace(\" \", \"-\")+\" \"}}{%- endfor %}{{\"\\n\\n\"}}{% endif %}[show annotation]({{highlight.incontext}}){% if not loop.last %}{{\"\\n\\n---\"}}{% endif %}{% if loop.last %}{{\"\\n\"}}{% endif %}{% endfor %}{% endif %}\n## Highlights\n---{% for highlight in highlights -%}\n{{\"\"}}\n> [!note] {{highlight.text}}\n{% if highlight.annotation %}\n> *{{highlight.annotation}}*\n{% endif %}\n{% if highlight.tags | length %}{% for tag in highlight.tags %} #{{tag | replace(\" \", \"-\")+\" \"}}\n{% endfor %}\n{% endif -%}\n[show annotation]({{highlight.incontext}})\n{{\"\"}}{% if not loop.last %}{{\"\\n---\"}}{% endif %}{% endfor %}",
+  "syncOnBoot": false,
+  "autoSyncInterval": 0,
+  "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
+  "history": {
+    "totalArticles": 47,
+    "totalHighlights": 671
+  },
+  "groups": [
+    {
+      "id": "__world__",
+      "name": "Public",
+      "public": true,
+      "type": "open",
+      "selected": true
+    },
+    {
+      "id": "o82BoWg8",
+      "name": "Thermodynamics Project",
+      "public": false,
+      "type": "private",
+      "selected": true
+    },
+    {
+      "id": "K23ek1Bx",
+      "name": "Global Change Makers",
+      "public": false,
+      "type": "private",
+      "selected": true
+    },
+    {
+      "id": "J6BqJAJM",
+      "name": "ASURT",
+      "public": false,
+      "type": "private",
+      "selected": true
+    },
+    {
+      "id": "96W7gqmw",
+      "name": "PCM Research",
+      "public": false,
+      "type": "private",
+      "selected": true
+    },
+    {
+      "id": "LXLNYw6d",
+      "name": "College",
+      "public": false,
+      "type": "private",
+      "selected": true
+    }
+  ],
+  "useDomainFolders": false,
+  "lastSyncDate": "2024-11-21T17:54:46.084Z"
+}

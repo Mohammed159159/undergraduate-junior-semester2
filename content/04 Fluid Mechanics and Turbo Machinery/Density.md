@@ -1,0 +1,1 @@
+Water density is max @ $4^\circ$C; this creates insulation for frozen lakes/oceans

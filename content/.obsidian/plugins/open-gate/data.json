@@ -1,0 +1,49 @@
+{
+  "uuid": "3jcp5cpc9ilfn8s6pljh3",
+  "gates": {
+    "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpnSlMzWm9tX2M0SXFFVTlBTVliZWxOV3B5dTVURG1m": {
+      "id": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpnSlMzWm9tX2M0SXFFVTlBTVliZWxOV3B5dTVURG1m",
+      "title": "Spring'25 Drive",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://img.icons8.com/ios7/512/FFFFFF/google-drive--v3.png\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "center",
+      "profileKey": "open-gate",
+      "url": "https://drive.google.com/drive/folders/1ZgJS3Zom_c4IqEU9AMYbelNWpyu5TDmf",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly93d3cueW91dHViZS5jb20v": {
+      "id": "aHR0cHM6Ly93d3cueW91dHViZS5jb20v",
+      "title": "YouTube",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://img.icons8.com/ios7/512/FFFFFF/youtube-play.png\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "center",
+      "profileKey": "open-gate",
+      "url": "https://www.youtube.com/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly9sbXMuZW5nLmFzdS5lZHUuZWcvbXkv": {
+      "id": "aHR0cHM6Ly9sbXMuZW5nLmFzdS5lZHUuZWcvbXkv",
+      "title": "LMS",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://img.icons8.com/?size=100&id=11173&format=png&color=FFFFFF\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "center",
+      "profileKey": "open-gate",
+      "url": "https://lms.eng.asu.edu.eg/my/",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    },
+    "aHR0cHM6Ly9jYWxlbmRhci5nb29nbGUuY29tL2NhbGVuZGFyL3UvMC9y": {
+      "id": "aHR0cHM6Ly9jYWxlbmRhci5nb29nbGUuY29tL2NhbGVuZGFyL3UvMC9y",
+      "title": "Google Calendar",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://img.icons8.com/?size=100&id=16152&format=png&color=FFFFFF\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "center",
+      "profileKey": "open-gate",
+      "url": "https://calendar.google.com/calendar/u/0/r",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.tree-item-icon, .tree-item {
+    --icon-opacity: 0;
+  }
+.workspace-sidedock-vault-profile {
+  background: var(--background-mod-left-CSS-dark) !important;
+  background-blend-mode: var(--background-mod-left-CSS-blend-mode-dark);
+  backdrop-filter: var(--background-mod-left-CSS-backdrop-filter-dark);
+}

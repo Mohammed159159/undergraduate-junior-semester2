@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "f9ea983c6212a022",
+    "type": "split",
+    "children": [
+      {
+        "id": "52ee2983d51a7384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e74c5e960fd867bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97fcd69ce7d50bc3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7399400e21a8c2f3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a2229fa83b11cb09",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Control",
+            "matchingCase": false,
+            "explainSearch": true,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "byCreatedTime"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "72b69a74531e169c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4ac5500c85aea2a7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "0bb81d738cddfac6",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "alphabeticalReverse",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3967f84ea5af47b9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0bad68cf0fe9b378",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "05 Electronics of Instrumentation/Lecture 1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2045fcc19677dbcc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Problems.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "55ab2c515be59ad9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Problems.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "open-gate:YouTube": false,
+      "open-gate:LMS": false,
+      "open-gate:Google Calendar": false,
+      "open-gate:Spring'25 Drive": false,
+      "workspaces:Manage workspace layouts": true,
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": false,
+      "canvas:Create new canvas": false,
+      "audio-recorder:Start/stop recording": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+    }
+  },
+  "active": "e74c5e960fd867bf",
+  "lastOpenFiles": [
+    "2403.11784.md",
+    "2502.12112.md",
+    "01 Machine Construction/Lectures/Lecture 1 - Introduction/Introduction.md",
+    "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-b.pdf - Google Drive.md",
+    "02 Mechanics of Machines/Lectures/Lecture 1/Chapter 1-b.pdf - Google Drive.md",
+    "Lecture 1.md",
+    "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision/Lab 1.md",
+    "02 Mechanics of Machines/Four Bar Linkage Explained with Inversions & Solved Examples.md",
+    "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision",
+    "03 Casting and Welding/Labs",
+    "02 Mechanics of Machines/Inversion of a Mechanism.md",
+    "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
+    "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Definitions.md",
+    "05 Electronics of Instrumentation/Lecture 1.md",
+    "01 Machine Construction/Lectures/Lecture 1 - Introduction",
+    "02 Mechanics of Machines/Lectures/Lectures.md",
+    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
+    "01 Machine Construction/Lectures",
+    "02 Mechanics of Machines/Lower pair.md",
+    "02 Mechanics of Machines/Turning Pair.md",
+    "Meta/assets/Excalidraw/Drawing 2025-02-11 13.31.24.excalidraw.md",
+    "Analysis.md",
+    "Meta/assets/Excalidraw/Drawing 2025-02-11 13.28.53.excalidraw.md",
+    "Meta/assets/Excalidraw",
+    "05 Electronics of Instrumentation/Ideal Amplifiers.md",
+    "05 Electronics of Instrumentation/Amplifiers.md",
+    "05 Electronics of Instrumentation/Amplification Ratio.md",
+    "05 Electronics of Instrumentation/Op-Amp.md",
+    "General/A broader perspective.md",
+    "05 Electronics of Instrumentation/Untitled.md",
+    "Lecture 1 Rigid Body.pdf - Google Drive.md",
+    "05 Measurements and Intrumentation/Measurement final exams.pdf",
+    "05 Measurements and Intrumentation/الاجهزة فى زتونة للمادة المجنونة.pdf",
+    "05 Measurements and Intrumentation/-Note-05-38_annotated.pdf",
+    "05 Measurements and Intrumentation/final measurements rev .pdf",
+    "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.19_b377eea9.jpg",
+    "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.32_a02ed705.jpg",
+    "Meta/assets/Measurments full summary_-Fawzy & Shoman.pdf",
+    "General/Final.jpg",
+    "General/IMG-20241026-WA0010.jpg",
+    "01 Introduction to Mechatronics/Meta/assets/IMG-20241124-WA0014.jpg",
+    "01 Introduction to Mechatronics/Meta/assets/IMG-20241124-WA0013.jpg",
+    "01 Introduction to Mechatronics/Meta/assets/IMG-20241124-WA0012.jpg",
+    "01 Introduction to Mechatronics/Meta/assets/IMG-20241124-WA0011.jpg",
+    "05 Measurements and Intrumentation/Labs/IMG-20241015-WA0011.jpg",
+    "05 Measurements and Intrumentation/Labs/IMG-20241015-WA0009.jpg",
+    "Meta/assets/Canvases/Untitled 1.canvas"
+  ]
+}
