@@ -1,0 +1,2 @@
+- Accuracy and allowance and design time depend on application
+- Scientist vs Engineer

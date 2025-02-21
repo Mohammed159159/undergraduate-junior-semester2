@@ -1,0 +1,2 @@
+- Voltage => Op-Amp
+- Current=> Node

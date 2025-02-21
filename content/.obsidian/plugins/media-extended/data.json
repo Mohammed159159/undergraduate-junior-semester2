@@ -32,12 +32,12 @@
       },
       {
         "protocol": "https:",
-        "hostname": "youtu.be",
+        "hostname": "www.youtube.com",
         "port": ""
       },
       {
         "protocol": "https:",
-        "hostname": "www.youtube.com",
+        "hostname": "youtu.be",
         "port": ""
       }
     ],
@@ -57,7 +57,7 @@
   "screenshotTemplate": "> [!time] {{TIMESTAMP}}\n  > !{{SCREENSHOT}}\n   > \n\n---\n\n",
   "screenshotEmbedTemplate": "{{TITLE}}{{DURATION}}",
   "insertBefore": false,
-  "timestampOffset": 0,
+  "timestampOffset": -5,
   "biliDefaultQuality": 80,
   "screenshotFormat": "image/png",
   "screenshotQuality": 1,

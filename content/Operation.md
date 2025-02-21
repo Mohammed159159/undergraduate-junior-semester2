@@ -1,0 +1,3 @@
+-  Recurring actions that occur on a set of inputs and leads to outputs
+- Routine work
+- Exists in all industries and organizations

@@ -1,0 +1,3 @@
+- A component to remove unwanted something
+- [[Signal Filters]]
+- [[Types of Filters]]

@@ -1,0 +1,4 @@
+- Remove a specific frequency from a signal
+- Band pass & Band stop
+- [[Types of Filters]]
+- [[Signal Filters Analysis]]

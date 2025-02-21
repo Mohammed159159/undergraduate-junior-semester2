@@ -1,0 +1,2 @@
+- Multiplication => Series
+- Summation => Parallel + [[Summing Amplifier]]
