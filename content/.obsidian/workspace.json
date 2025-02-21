@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Lecture 1 - Introduction"
             }
-          },
-          {
-            "id": "b9a88111acac4ef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Operation"
-            }
           }
         ]
       }
@@ -139,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334,
-    "collapsed": true
+    "width": 334
   },
   "right": {
     "id": "70c451610fed16e6",
@@ -276,8 +251,9 @@
       "open-gate:LMS": false
     }
   },
-  "active": "f8b544b550acb894",
+  "active": "5eadbd9534800a3b",
   "lastOpenFiles": [
+    "06 Project Management/Operation.md",
     "06 Project Management/Lectures/Lecture 1 - Introduction/Lecture 1 - Introduction.md",
     "Meta/assets/Pasted image 20250221103457.png",
     "06 Project Management/Lectures/Lecture 1 - Introduction/desktop.ini",
@@ -290,8 +266,7 @@
     "Meta/assets/Pasted image 20250221100635.png",
     "Meta/assets/Pasted image 20250221100428.png",
     "Meta/assets/Pasted image 20250221100206.png",
-    "Project.md",
-    "Operation.md",
+    "06 Project Management/Project.md",
     "index.md",
     "06 Project Management/Resources - Industrial project management.md",
     "06 Project Management/Lectures/Lecture 1 - Introduction",
