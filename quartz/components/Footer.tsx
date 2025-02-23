@@ -27,7 +27,7 @@ export default ((opts?: Options) => {
             Made with ❤️ by <a href={"https://www.linkedin.com/in/mohammed-meshrif/"}>mohammedhany300</a>
           </li>
           <li style={{ fontSize: "smaller" }}>
-            Icons by <a href={"https://www.flaticon.com/"}>Freepik</a>
+            Icons by <a href={"https://www.flaticon.com/"}>Flaticon</a>
           </li>
         </ul>
       </footer>
