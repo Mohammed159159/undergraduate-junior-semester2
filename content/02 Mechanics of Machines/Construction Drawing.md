@@ -1,0 +1,2 @@
+- Showing details of a mechanism
+- Has to maintain only relative motion in [[Kinematic Diagram]]

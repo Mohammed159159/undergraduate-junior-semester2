@@ -1,0 +1,1 @@
+All fixed links are just one link

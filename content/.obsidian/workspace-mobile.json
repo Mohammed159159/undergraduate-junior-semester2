@@ -164,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "open-gate:YouTube": false,
       "open-gate:LMS": false,
       "open-gate:Google Calendar": false,
@@ -177,7 +178,6 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },

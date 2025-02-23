@@ -7,7 +7,7 @@ tags:
 
 ---
 
-> [!Note] [03:51](https://www.youtube.com/watch?v=8bOouR5n7jc&t=231#t=03:51.18) [[Project]] vs. [[Operation]]
+> [!Note] [03:51](https://www.youtube.com/watch?v=8bOouR5n7jc&t=231#t=03:51.18) [[Project]] vs. [[Operations]]
 > ![[Pasted image 20250221090949.png]]
 > - *New* products => Project
 > - Products => Operation
@@ -74,10 +74,10 @@ tags:
 > There are two methods to draw a network diagram
 > ![[Pasted image 20250221101711.png]]
 > ![[Pasted image 20250221103457.png]]
-> 1. Activity on Arrow
+> 1. [[Activity on Arrow]]
 > 	- Nodes are the start and end of activities
 > 	- Arrows represent which activity or activities start after the end node 
-> 2. Activity on Node
+> 2. [[Activity on Node]]
 > 	- Nodes are the activities
 > 	- Arrows represent that a certain portion of the activity or activities at the tail of the arrow needs to be completed before the start of the activity at the head of the arrow
 > 	  

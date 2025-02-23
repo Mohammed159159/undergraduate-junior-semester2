@@ -2,6 +2,7 @@
 tags:
   - resources
 ---
+
 ```embed
 title: "Mechanics of Machines [MDP212]"
 image: "https://i.ytimg.com/vi/PZLGB8_8iEs/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA1gcgCU7AarBeEjqEqo0zE8aEtpA&days_since_epoch=20135"

@@ -91,20 +91,6 @@ annotation-target-type: pdf
 ^589e29zl8wh
 
 
->%%
->```annotation-json
->{"created":"2025-02-16T13:25:10.066Z","text":"[[Slider-crank]]\nFirst inversion","updated":"2025-02-16T13:25:10.066Z","document":{"title":"Slide 1","link":[{"href":"urn:x-pdf:194efb4831546e4aaff705e3e10963e5"},{"href":"https://drive.google.com/uc?export=download&id=1yRD58SJOBKlmjIfNmtYNPkgUdEbtrBbL"}],"documentFingerprint":"194efb4831546e4aaff705e3e10963e5"},"uri":"https://drive.google.com/uc?export=download&id=1yRD58SJOBKlmjIfNmtYNPkgUdEbtrBbL","target":[{"source":"https://drive.google.com/uc?export=download&id=1yRD58SJOBKlmjIfNmtYNPkgUdEbtrBbL","selector":[{"type":"TextPositionSelector","start":175,"end":187},{"type":"TextQuoteSelector","exact":"slider-crank","prefix":"ank mechanism❑ First inversion: ","suffix":" ❑ Applications➢Reciprocating en"}]}]}
->```
->%%
->*%%PREFIX%%ank mechanism❑ First inversion:%%HIGHLIGHT%% ==slider-crank== %%POSTFIX%%❑ Applications➢Reciprocating en*
->%%LINK%%[[#^ig3xzjua24i|show annotation]]
->%%COMMENT%%
->[[Slider-crank]]
->First inversion
->%%TAGS%%
->
-^ig3xzjua24i
-
 
 >%%
 >```annotation-json
