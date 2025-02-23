@@ -9,10 +9,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/Mohammed159159/undergraduate-junior-semester2.git",
-      "Discussion": "https://github.com/Mohammed159159/undergraduate-junior-semester2/discussions",
-      "Made with ❤️ by mohammedhany300": "https://www.linkedin.com/in/mohammed-meshrif/"
+      Discussion: "https://github.com/Mohammed159159/undergraduate-junior-semester2/discussions",
     },
-    
   }),
 }
 
@@ -34,7 +32,16 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: { enableRadial: true, repelForce: 15, opacityScale: 4, fontSize: 1, drag: false, focusOnHover: true },
+      globalGraph: {
+        enableRadial: true,
+        repelForce: 20,
+        opacityScale: 4,
+        fontSize: 1,
+        drag: false,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

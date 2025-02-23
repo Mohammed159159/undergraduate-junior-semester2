@@ -23,6 +23,12 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
+          <li>
+            Made with ❤️ by <a href={"https://www.linkedin.com/in/mohammed-meshrif/"}>mohammedhany300</a>
+          </li>
+          <li style={{ fontSize: "smaller" }}>
+            Icons by <a href={"https://www.flaticon.com/"}>Freepik</a>
+          </li>
         </ul>
       </footer>
     )

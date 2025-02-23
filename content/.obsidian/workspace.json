@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b41f4c8e6a45061b",
+        "id": "c539a58042b65ae2",
         "type": "tabs",
         "children": [
           {
-            "id": "2b0c35ed8b840f2f",
+            "id": "398c8739ccdf32ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -101,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334,
-    "collapsed": true
+    "width": 334
   },
   "right": {
     "id": "70c451610fed16e6",
@@ -119,13 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mechanisms"
+              "title": "Outline of index"
             }
           },
           {
@@ -146,12 +159,45 @@
         "dimension": 60.879629629629626,
         "children": [
           {
+            "id": "e50f11f4bfb10eb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "b1777265e743d897",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
             "id": "d13a0861278e7b80",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-tag:#resources -tag:#moc",
@@ -174,47 +220,16 @@
                   "repelStrength": 20,
                   "linkStrength": 0,
                   "linkDistance": 500,
-                  "scale": 0.7005187883618991,
+                  "scale": 0.455256677366274,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Mechanisms"
-            }
-          },
-          {
-            "id": "b1777265e743d897",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "05 Measurements and Intrumentation/Lectures/lecture 4-2.pdf - Google Drive.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for lecture 4-2.pdf - Google Drive"
-            }
-          },
-          {
-            "id": "e50f11f4bfb10eb6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Graph of index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -240,12 +255,13 @@
       "open-gate:LMS": false
     }
   },
-  "active": "2b0c35ed8b840f2f",
+  "active": "398c8739ccdf32ca",
   "lastOpenFiles": [
+    "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
+    "index.md",
     "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
     "02 Mechanics of Machines/Scotch yoke - Wikipedia.md",
     "02 Mechanics of Machines/Four Bar Linkage Explained with Inversions & Solved Examples.md",
-    "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
     "02 Mechanics of Machines/Inversion of a Mechanism.md",
     "02 Mechanics of Machines/Rotational Motion.md",
     "02 Mechanics of Machines/Rotational Motion.md",
