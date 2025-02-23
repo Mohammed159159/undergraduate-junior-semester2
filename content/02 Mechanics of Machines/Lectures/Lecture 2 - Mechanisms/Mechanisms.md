@@ -45,13 +45,14 @@ tags:
 > - Achieves ellipse equation by relating $L\cos\theta, L\sin\theta, x$, and $y$ using the fact that $x^2 + y^2 = L^2$
 >   ![[Pasted image 20250222151039.png]]
 >   ![[Pasted image 20250222151156.png]]
-> > [!tip] This mechanism is a great example of how mechanisms are used for satisfying mathematical equations (e.g. mechanical computers)
+> > [!tip] This mechanism is a great example of how mechanisms are used for satisfying mathematical equations (which is then applied in mechanical computers)
 > > - Any mechanism is characterized by inputs and outputs in terms of mathematical relations
 
 ---
 
 > [!remeber] [01:36:27](https://www.youtube.com/watch?v=ADRx8PfSvSQ&t=5788#t=1:36:27.87) [[Scotch yoke mechanism]]
 >   ![[Pasted image 20250223120006.png]]
+>   ![[Pasted image 20250223121602.png]]
 > - Represents harmonic motion
 > - Gives a relation between input angle (rotational motion) and translation distance (reciprocating motion)
 >   
@@ -59,7 +60,7 @@ tags:
 > 
 >  > [!warning] Pay attention to the relation between [[kinematic diagram]] and [[construction drawing]]
 >   
->   > Fixing link A will not give a new inversion because it will be the same as fixing B only giving vertical reciprocating motion
+>   > Fixing link A will not give a new inversion because it will be the same as fixing B only giving vertically reciprocating Scotch yoke mechanism
 
 ---
 
