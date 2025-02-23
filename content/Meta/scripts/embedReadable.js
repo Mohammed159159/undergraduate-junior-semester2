@@ -14,11 +14,6 @@ const embedReadable = async (
     frontmatter = `---
 tags:
 - resources/articles
-status:
-- not_consumed
-- no_moc
-- no_friend
-- no_action
 annotation-target: ${articleURL}
 ---`;
     body = `<iframe src="https://docs.google.com/gview?url=${articleURL}&embedded=true" style="width:100%; aspect-ratio:1" frameborder="0" allow-popups-to-escape-sandbox></iframe>`;
@@ -28,11 +23,6 @@ annotation-target: ${articleURL}
     frontmatter = `---
 tags:
 - resources/articles
-status:
-- not_consumed
-- no_moc
-- no_friend
-- no_action
 annotation-target: https://drive.google.com/uc?export=download&id=${
       articleURL.split("/file/d/")[1].split("/")[0]
     }
@@ -47,11 +37,6 @@ annotation-target-type: pdf
     frontmatter =`---
 tags:
 - resources/kosmiks
-status:
-- not_consumed
-- no_moc
-- no_friend
-- no_action
 ---`;
       ;
     body = `| [Open Original](${articleURL}) | [Open in App](file://C:/Users/Mohammed%20Hany/AppData/Roaming/Microsoft/Windows/Start%20Menu/Programs/Kosmik.lnk) |
@@ -64,11 +49,6 @@ status:
     frontmatter = `---
 tags:
 - resources/folders
-status:
-- not_consumed
-- no_moc
-- no_friend
-- no_action
 ---`;
     body = `\`\`\`embed
 title: "${articleTitle}"
@@ -83,11 +63,6 @@ url: "${articleURL}"
     frontmatter = `---
 tags:
 - resources/articles
-status:
-- not_consumed
-- no_moc
-- no_friend
-- no_action
 ---`;
     body = `\`\`\`embed
 title: "${articleTitle}"

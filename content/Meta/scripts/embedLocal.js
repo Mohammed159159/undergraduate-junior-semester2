@@ -6,11 +6,6 @@ const embedLocal = async (tp) => {
     let frontmatter = `---
 tags:
   - resources/articles
-status:
-  - no_action
-  - no_friend
-  - no_moc
-  - not_consumed
 annotation-target: ${name}.pdf
 ---
 `
