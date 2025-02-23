@@ -50,20 +50,6 @@
               "icon": "youtube",
               "title": "Lec 2. Mechanics of Machine [MDP 212s] - YouTube"
             }
-          },
-          {
-            "id": "517b3ac842980048",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=4CBBVGRpQLw",
-                "title": "Translation vs Rotation vs General motion (Engineering Dynamics) - YouTube",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Translation vs Rotation vs General motion (Engineering Dynamics) - YouTube"
-            }
           }
         ]
       }
@@ -288,17 +274,17 @@
       "open-gate:LMS": false
     }
   },
-  "active": "4a820012d99ae27a",
+  "active": "9cba60b81d1a0dfe",
   "lastOpenFiles": [
-    "Types of motion.md",
     "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
+    "02 Mechanics of Machines/Types of motion.md",
     "02 Mechanics of Machines/Rotational Motion.md",
     "02 Mechanics of Machines/Construction Drawing.md",
     "Meta/assets/Pasted image 20250223120006.png",
     "Meta/assets/Pasted image 20250223115503.png",
     "02 Mechanics of Machines/Lectures/Lectures.md",
-    "Translational Motion.md",
-    "General Plane Motion.md",
+    "02 Mechanics of Machines/Translational Motion.md",
+    "02 Mechanics of Machines/General Plane Motion.md",
     "Meta/assets/Pasted image 20250223114241.png",
     "Meta/assets/Pasted image 20250223114124.png",
     "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-b.pdf - Google Drive.md",
