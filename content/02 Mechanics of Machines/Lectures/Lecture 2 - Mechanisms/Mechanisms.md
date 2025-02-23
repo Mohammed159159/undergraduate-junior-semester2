@@ -54,7 +54,7 @@ tags:
 >   ![[Pasted image 20250223120006.png]]
 >   ![[Pasted image 20250223121602.png]]
 > - Represents harmonic motion
-> - Gives a relation between input angle (rotational motion) and translation distance (reciprocating motion)
+> - Gives a relation between [[Scotch yoke - Wikipedia|input angle (rotational motion) and translation distance (reciprocating motion)]]
 >   
 > > [!info] There are three [[Types of motion]]
 > 

@@ -1,6 +1,6 @@
 {
-  "token": "6879-4WPcm87SB7aQKVbYAjXHXjKzzasiVW5EoMM31G18EfQ",
-  "user": "acct:mohammedhany300@hypothes.is",
+  "token": "6879-nFzBRazwZvoQXTTCWywbOUvnopu1swC4i-Che32slnk",
+  "user": "acct:mohammedhany300.asu@hypothes.is",
   "highlightsFolder": "/",
   "isConnected": true,
   "template": "<% tp.user.embedHighlight(\"{{url}}\") %>\n{{\"\"}}\n{%- if page_notes | length %}## Page Notes\n---{% for highlight in page_notes -%}\n{{\"\"}}\n> *{{highlight.annotation}}*\n{%- if highlight.tags | length %}\n{{\"\"}}\n{% for tag in highlight.tags -%}\n#{{tag | replace(\" \", \"-\")+\" \"}}{%- endfor %}{{\"\\n\\n\"}}{% endif %}[show annotation]({{highlight.incontext}}){% if not loop.last %}{{\"\\n\\n---\"}}{% endif %}{% if loop.last %}{{\"\\n\"}}{% endif %}{% endfor %}{% endif %}\n## Highlights\n---{% for highlight in highlights -%}\n{{\"\"}}\n> [!note] {{highlight.text}}\n{% if highlight.annotation %}\n> *{{highlight.annotation}}*\n{% endif %}\n{% if highlight.tags | length %}{% for tag in highlight.tags %} #{{tag | replace(\" \", \"-\")+\" \"}}\n{% endfor %}\n{% endif -%}\n[show annotation]({{highlight.incontext}})\n{{\"\"}}{% if not loop.last %}{{\"\\n---\"}}{% endif %}{% endfor %}",
@@ -8,8 +8,8 @@
   "autoSyncInterval": 0,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
-    "totalArticles": 52,
-    "totalHighlights": 676
+    "totalArticles": 4,
+    "totalHighlights": 4
   },
   "groups": [
     {
@@ -17,44 +17,9 @@
       "name": "Public",
       "public": true,
       "type": "open",
-      "selected": false
-    },
-    {
-      "id": "o82BoWg8",
-      "name": "Thermodynamics Project",
-      "public": false,
-      "type": "private",
-      "selected": false
-    },
-    {
-      "id": "K23ek1Bx",
-      "name": "Global Change Makers",
-      "public": false,
-      "type": "private",
-      "selected": false
-    },
-    {
-      "id": "J6BqJAJM",
-      "name": "ASURT",
-      "public": false,
-      "type": "private",
-      "selected": false
-    },
-    {
-      "id": "96W7gqmw",
-      "name": "PCM Research",
-      "public": false,
-      "type": "private",
-      "selected": false
-    },
-    {
-      "id": "LXLNYw6d",
-      "name": "College",
-      "public": false,
-      "type": "private",
       "selected": true
     }
   ],
   "useDomainFolders": false,
-  "lastSyncDate": "2025-02-22T13:25:22.772Z"
+  "lastSyncDate": "2025-02-23T13:05:23.753Z"
 }
