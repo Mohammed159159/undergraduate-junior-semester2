@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 Electronics of Instrumentation/Op-Amps.md",
+                "file": "01 Machine Construction/Lectures/Lecture 1 - Introduction/Introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Op-Amps"
+              "title": "Introduction"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "e74c5e960fd867bf",
   "lastOpenFiles": [
+    "05 Electronics of Instrumentation/Op-Amps.md",
     "Estimation vs Accuracy.md",
     "Circuit Analysis.md",
     "Common Sense.md",
@@ -202,7 +203,6 @@
     "Summing Amplifier.md",
     "High Pass Filters.md",
     "General/A broader perspective.md",
-    "05 Electronics of Instrumentation/Op-Amps.md",
     "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
     "Circuits.md",
     "Circuit Design.md",

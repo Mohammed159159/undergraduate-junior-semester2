@@ -64,3 +64,27 @@ tags:
 
 ---
 
+> [!Note] [01:54:17](https://www.youtube.com/watch?v=ADRx8PfSvSQ&t=6857#t=1:54:17.13) [[Oldham’s coupling]]
+> ![[Pasted image 20250223174601.png]]
+> - Rotation at A -> Rotation of Frame -> Rotation at B => Coupling of shafts with **parallel**, **shifted** axes
+>   ![[Pasted image 20250223174856.png]]
+>   ![[Pasted image 20250223175144.png]]
+>  - There is a shift between axis of rotation of A and axis of rotation of B
+>  - Base is link AB
+>    ![[Pasted image 20250223175302.png]]
+>  > [!info] Maintaining 90 degree angle
+>  > ![[Pasted image 20250223175542.png]]
+>  - To maintain 90 degree between A and B, the frame's center need to rotate about a point that lies at the center between AB
+
+---
+
+> [!Note] [02:06:54](https://www.youtube.com/watch?v=ADRx8PfSvSQ&t=7614#t=2:06:54.35) [[Hooke’s joint (Universal Joint)]]
+> ![[Pasted image 20250223183815.png]]
+
+---
+
+> [!Note] [02:08:34](https://www.youtube.com/watch?v=ADRx8PfSvSQ&t=7714#t=2:08:34.50) [[Ackermann steering]]
+> Approximates the [[Condition of  ideal steering]]
+
+---
+

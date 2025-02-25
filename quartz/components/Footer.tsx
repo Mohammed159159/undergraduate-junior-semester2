@@ -23,13 +23,13 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
-          <li>
-            Made with ❤️ by <a href={"https://www.linkedin.com/in/mohammed-meshrif/"}>mohammedhany300</a>
-          </li>
-          <li style={{ fontSize: "smaller" }}>
-            Icons by <a href={"https://www.flaticon.com/"}>Flaticon</a>
-          </li>
         </ul>
+          <p>
+            Made with ❤️ by <a href={"https://www.linkedin.com/in/mohammed-meshrif/"}>mohammedhany300</a>
+          </p>
+          <p style={{ fontSize: "smaller" }}>
+            Icons by <a href={"https://www.flaticon.com/"}>Flaticon</a>
+          </p>
       </footer>
     )
   }

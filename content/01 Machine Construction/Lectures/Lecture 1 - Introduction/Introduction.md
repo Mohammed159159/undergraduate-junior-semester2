@@ -53,7 +53,7 @@ tags:
 > [!Note] [54:05](https://www.youtube.com/watch?v=RMINw5r4lVU&t=3245#t=54:05.35) There are two types of [[Strain]]
 > - The main strain is the one along the direction of the applied load (this is called [[Longitudinal Strain]])
 > - The strain perpendicular to the direction of the applied load is called [[Lateral Strain]]
-> - [[Poisson's Ratio]] recognizes that the ration between the lateral and longitudinal strain is constant for a given material
+> - [[Poisson's Ratio]] recognizes that the ratio between the lateral and longitudinal strain is constant for a given material
 > ![[Pasted image 20250218232058.png]]
 
 ---

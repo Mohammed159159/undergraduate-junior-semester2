@@ -1,6 +1,14 @@
 @use "./base.scss";
-
+@use "./variables.scss" as *;
 // put your custom CSS here!
 html {
     font-size: larger;
 }
+
+@media all and ($mobile) {
+    .left.sidebar {
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 1rem !important;
+    }
+  }

@@ -49,3 +49,44 @@ https://www.ansys.com/academic/students
 🔹 *Solved Exams videos*
 
 https://youtube.com/playlist?list=PLl76ggYr34s1N4IyaH3kQyNqdVpRJQB_d&si=zxfhrdRAMbWO6izm
+
+---
+
+🔴 Spring 25
+
+https://drive.google.com/drive/folders/1suiafoGefeTTdDiYr7n-fSFnRioTvqW_
+
+🔴 Spring 24
+
+https://drive.google.com/drive/folders/13706Ns1YqJmA-3-xBem5pT8aXOu-umxH
+
+🔴 Spring 23
+
+https://drive.google.com/drive/folders/11t1dP01LleHey-SkG1_GDB-4QbRphfQv
+
+🔴 Spring 22
+
+https://drive.google.com/drive/folders/1X2TEzSN8_nW9gsscpbKTP5x9chJPMTK1
+
+
+🔴 Spring 21
+
+https://drive.google.com/drive/folders/1MUlrf15ZVKijgdIFWCB4on7FtSSa2G_q
+
+---
+
+تقسيمة الدرجات
+الفاينل 50 
+الميدترم 25
+ وهيكون علي جزء دكتور وجدي 
+Activities 25
+متقسمين 
+كويزين في السكشن
+هيبقي فيه كويز علي جزء دكتور وجدي قبل الميد 
+وكويز تاني بعد الميد
+وكويزات في اللاب
+2 Projects 
+هيكون فيه بروجكت لدكتور تامر
+و بروجكت تاني لدكتور ايمن 
+وبالنسبة التيمات لسه معرفش كل تيم من كام واحد 
+Assignments

@@ -1,0 +1,1 @@
+> [Section 3 - Internal Force in Beam ( Part 1 ) - YouTube](https://www.youtube.com/watch?si=nXqtHyOv8Gr0mki6&v=VKEALATZt_k&feature=youtu.be)
