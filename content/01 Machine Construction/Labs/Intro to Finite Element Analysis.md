@@ -7,3 +7,7 @@ tags:
 
 ---
 
+> [!Note] [29:50](https://www.youtube.com/watch?v=MYz8zpck3yo&t=1791#t=29:50.91) 
+
+---
+

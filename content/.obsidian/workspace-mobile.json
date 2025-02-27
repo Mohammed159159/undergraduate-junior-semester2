@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Machine Construction/Lectures/Lecture 1 - Introduction/Introduction.md",
+                "file": "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Mechanisms"
             }
           }
         ]
@@ -183,6 +183,10 @@
   },
   "active": "e74c5e960fd867bf",
   "lastOpenFiles": [
+    "02 Mechanics of Machines/Slider-crank mechanism.md",
+    "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorial 1 - Viscosity and Shear Stress/Chapter 1 Fluid Properties (Viscosity).md",
+    "02 Mechanics of Machines/Ground.md",
+    "01 Machine Construction/Lectures/Lecture 1 - Introduction/Introduction.md",
     "05 Electronics of Instrumentation/Op-Amps.md",
     "Estimation vs Accuracy.md",
     "Circuit Analysis.md",
@@ -205,10 +209,6 @@
     "General/A broader perspective.md",
     "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
     "Circuits.md",
-    "Circuit Design.md",
-    "Applications.md",
-    "02 Mechanics of Machines/Crank.md",
-    "2403.11784.md",
     "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision",
     "03 Casting and Welding/Labs",
     "01 Machine Construction/Lectures/Lecture 1 - Introduction",

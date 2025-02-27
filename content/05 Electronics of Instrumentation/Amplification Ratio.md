@@ -1,5 +1,5 @@
 > [!bug] Depends on load
 
-> [!success ] Separate load
+> [! success ] Separate load
 > - [[Buffer]]
-> - [[Op-Amp]] => Idealizing [[Amplifiers]]
+> - [[Op-Amps]] => Idealizing [[Amplifiers]]
