@@ -11,10 +11,67 @@
             "id": "bb9e456ddf2612e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 Mechanics of Machines/Rotational Motion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rotational Motion"
+            }
+          },
+          {
+            "id": "15ef4d3eafcdcedc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8049026d15c8fc71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55ac8c359e4bfcf2",
+            "type": "leaf",
+            "state": {
+              "type": "mx-embed",
+              "state": {
+                "source": "https://www.youtube.com/watch?v=ADRx8PfSvSQ"
+              },
+              "icon": "youtube",
+              "title": "Lec 2. Mechanics of Machine [MDP 212s] - YouTube"
             }
           }
         ]
@@ -49,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scotch yoke",
+                "query": "gvi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +154,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,8 +303,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "bb9e456ddf2612e3",
+  "active": "15ef4d3eafcdcedc",
   "lastOpenFiles": [
+    "02 Mechanics of Machines/Rotational Motion.md",
+    "Untitled.md",
+    "02 Mechanics of Machines/Scotch yoke - Wikipedia.md",
+    "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-b.pdf - Google Drive.md",
+    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
+    "02 Mechanics of Machines/Types of motion.md",
     "05 Electronics of Instrumentation/Misc Resources.md",
     "Untitled 1.md",
     "01 Machine Construction/note.pdf",
@@ -282,16 +346,11 @@
     "05 Electronics of Instrumentation/Lectures",
     "01 Machine Construction/Labs/Intro to Finite Element Analysis.md",
     "01 Machine Construction/Labs/Intro to Finite Element Analysis.md",
-    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
-    "02 Mechanics of Machines/Rotational Motion.md",
     "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Definitions.md",
     "Meta/assets/Excalidraw/Drawing 2025-02-25 21.12.36.excalidraw.md",
     "01 Machine Construction/Tutorials/Tutorial 1/Tutorial 1 (& lab 1).md",
     "01 Machine Construction/Tutorials/Tutorials.md",
     "01 Machine Construction/Tutorials/Untitled.md",
-    "03 Casting and Welding/Labs/Labs.md",
-    "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision/Materials.md",
-    "06 Project Management/Sheets/Instructions.md",
     "Untitled.canvas",
     "Meta/assets/Canvases/Untitled.canvas",
     "Meta/assets/Canvases/Untitled 1.canvas",

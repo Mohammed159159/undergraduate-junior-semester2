@@ -1,0 +1,12 @@
+{
+  "accentColor": "#3e69b8",
+  "cssTheme": "",
+  "interfaceFontFamily": "Rubik",
+  "textFontFamily": "Rubik",
+  "baseFontSizeAction": true,
+  "baseFontSize": 19,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "center"
+  ]
+}

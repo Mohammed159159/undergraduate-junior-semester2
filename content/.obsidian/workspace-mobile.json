@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "03 Casting and Welding/Labs/Labs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Labs"
+            }
+          },
+          {
+            "id": "d838b97a705af4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
                 "mode": "source",
                 "source": false,
@@ -120,7 +144,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "05 Electronics of Instrumentation/Op-Amps.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,6 +206,15 @@
   },
   "active": "e74c5e960fd867bf",
   "lastOpenFiles": [
+    "03 Casting and Welding/Resources - Casting.md",
+    "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision/Materials.md",
+    "03 Casting and Welding/Labs/Labs.md",
+    "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision/Lab 1.md",
+    "Untitled.md",
+    "02 Mechanics of Machines/Sheets/Exercise%201.pdf",
+    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
+    "02 Mechanics of Machines/Condition of  ideal steering.md",
+    "05 Electronics of Instrumentation/Sheets/Sheet 1 - Op-Amps.pdf",
     "02 Mechanics of Machines/Slider-crank mechanism.md",
     "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorial 1 - Viscosity and Shear Stress/Chapter 1 Fluid Properties (Viscosity).md",
     "02 Mechanics of Machines/Ground.md",
@@ -202,13 +234,6 @@
     "Design factors.md",
     "Filters.md",
     "Frequency domain.md",
-    "Transfer Functions.md",
-    "Time domain.md",
-    "Summing Amplifier.md",
-    "High Pass Filters.md",
-    "General/A broader perspective.md",
-    "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
-    "Circuits.md",
     "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision",
     "03 Casting and Welding/Labs",
     "01 Machine Construction/Lectures/Lecture 1 - Introduction",
@@ -217,10 +242,8 @@
     "05 Measurements and Intrumentation/Measurement final exams.pdf",
     "05 Measurements and Intrumentation/الاجهزة فى زتونة للمادة المجنونة.pdf",
     "05 Measurements and Intrumentation/-Note-05-38_annotated.pdf",
-    "05 Measurements and Intrumentation/final measurements rev .pdf",
     "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.19_b377eea9.jpg",
     "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.32_a02ed705.jpg",
-    "Meta/assets/Measurments full summary_-Fawzy & Shoman.pdf",
     "General/Final.jpg",
     "General/IMG-20241026-WA0010.jpg",
     "01 Introduction to Mechatronics/Meta/assets/IMG-20241124-WA0014.jpg",
