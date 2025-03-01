@@ -235,7 +235,7 @@ annotation-target-type: pdf
 >*%%PREFIX%%𝐲∴𝛕∝𝐝𝐮𝐝𝐲Dr. Walid A. Torky%%HIGHLIGHT%% ==Viscosity== %%POSTFIX%%and Newtonian fluidShear stress*
 >%%LINK%%[[#^8g23uiwgcsr|show annotation]]
 >%%COMMENT%%
->[[Viscosity 1]]
+>[[Viscosity]]
 >%%TAGS%%
 >
 ^8g23uiwgcsr
@@ -249,7 +249,7 @@ annotation-target-type: pdf
 >*%%PREFIX%%Dr. Walid A. TorkyViscosity and%%HIGHLIGHT%% ==Newtonian fluid== %%POSTFIX%%Shear stress causes continuous s*
 >%%LINK%%[[#^73c4y6wdmr5|show annotation]]
 >%%COMMENT%%
->[[Newtonian fluid]]
+>[[Newtonian Fluid]]
 >%%TAGS%%
 >
 ^73c4y6wdmr5

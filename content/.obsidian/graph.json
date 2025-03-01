@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"02 Mechanics of Machines\"  -tag:#resources  ",
+  "search": "-tag:#resources  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 0.5997920997921,
   "linkDistance": 30,
-  "scale": 0.7801033046093778,
+  "scale": 0.4763297998712596,
   "close": true
 }

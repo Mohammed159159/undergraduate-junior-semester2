@@ -7,7 +7,7 @@ tags:
 
 ---
 
-> [!Note] [01:58](https://www.youtube.com/watch?v=KiITeCYml0Q&t=118#t=01:58.29) [[Viscosity 1]] and [[Shear Stress]]
+> [!Note] [01:58](https://www.youtube.com/watch?v=KiITeCYml0Q&t=118#t=01:58.29) [[Viscosity]] and [[Shear Stress]]
 
 ---
 

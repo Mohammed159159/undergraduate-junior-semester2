@@ -216,7 +216,7 @@ annotation-target-type: pdf
 >*%%PREFIX%%1.9 Steering mechanism (cont.)❑%%HIGHLIGHT%% ==Condition of  ideal steering== %%POSTFIX%%M e c h a n i c s   o f   M a c*
 >%%LINK%%[[#^rv6sskcotw|show annotation]]
 >%%COMMENT%%
->[[Condition of  ideal steering]]
+>[[Condition of  ideal steering 1]]
 >%%TAGS%%
 >
 ^rv6sskcotw

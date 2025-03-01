@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6146eaa3f4200113",
+        "id": "039e4178bfdd894d",
         "type": "tabs",
         "children": [
           {
-            "id": "94e4c183a01c3766",
+            "id": "5656837d7b4917ba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c2280210262366b6",
@@ -189,8 +188,33 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "94e4c183a01c3766",
+  "active": "5656837d7b4917ba",
   "lastOpenFiles": [
-    "Unifying F1TENTH Autonomous Racing - Survey, Methods and Benchmarks.md"
+    "06 Project Management/Activity on Node.md",
+    "06 Project Management/Activity on Arrow.md",
+    "02 Mechanics of Machines/Ackermann steering.md",
+    "Untitled.md",
+    "04 Fluid Mechanics and Turbo Machinery/Coefficient of Compressibility.md",
+    "04 Fluid Mechanics and Turbo Machinery/Coefficient of Volume Expansion.md",
+    "04 Fluid Mechanics and Turbo Machinery/Continuum Hypothesis.md",
+    "04 Fluid Mechanics and Turbo Machinery/Governing Equations.md",
+    "02 Mechanics of Machines/Gear box to back axel.md",
+    "04 Fluid Mechanics and Turbo Machinery/Dimensions and Units.md",
+    "02 Mechanics of Machines/Hooke’s joint (Universal Joint).md",
+    "02 Mechanics of Machines/Condition of  ideal steering.md",
+    "02 Mechanics of Machines/Condition of  ideal steering 1.md",
+    "01 Machine Construction/Compression.md",
+    "02 Mechanics of Machines/Conditions of equal speeds.md",
+    "01 Machine Construction/Design Relation.md",
+    "04 Fluid Mechanics and Turbo Machinery/Eulerian and Lagrangian Descriptions.md",
+    "04 Fluid Mechanics and Turbo Machinery/Flow Patterns.md",
+    "01 Machine Construction/Bending.md",
+    "05 Electronics of Instrumentation/Op-Amp Circuits Analysis.md",
+    "04 Fluid Mechanics and Turbo Machinery/Viscosity.md",
+    "04 Fluid Mechanics and Turbo Machinery/Viscosity.md",
+    "01 Machine Construction/Shear Strain.md",
+    "02 Mechanics of Machines/Input link.md",
+    "01 Machine Construction/Yield Strength.md",
+    "01 Machine Construction/Ultimate Tensile Strength.md"
   ]
 }
