@@ -222,13 +222,13 @@ annotation-target-type: pdf
 
 >%%
 >```annotation-json
->{"created":"2025-02-16T15:23:01.043Z","text":"[[Condition of  ideal steering]]","updated":"2025-02-16T15:23:01.043Z","document":{"title":"Slide 1","link":[{"href":"urn:x-pdf:194efb4831546e4aaff705e3e10963e5"},{"href":"https://drive.google.com/uc?export=download&id=1yRD58SJOBKlmjIfNmtYNPkgUdEbtrBbL"}],"documentFingerprint":"194efb4831546e4aaff705e3e10963e5"},"uri":"https://drive.google.com/uc?export=download&id=1yRD58SJOBKlmjIfNmtYNPkgUdEbtrBbL","target":[{"source":"https://drive.google.com/uc?export=download&id=1yRD58SJOBKlmjIfNmtYNPkgUdEbtrBbL","selector":[{"type":"TextPositionSelector","start":5871,"end":5899},{"type":"TextQuoteSelector","exact":"Condition of  ideal steering","prefix":"1.9 Steering mechanism (cont.)❑ ","suffix":"M e c h a n i c s   o f   M a c "}]}]}
+>{"created":"2025-02-16T15:23:01.043Z","text":"[[Condition of ideal steering]]","updated":"2025-02-16T15:23:01.043Z","document":{"title":"Slide 1","link":[{"href":"urn:x-pdf:194efb4831546e4aaff705e3e10963e5"},{"href":"https://drive.google.com/uc?export=download&id=1yRD58SJOBKlmjIfNmtYNPkgUdEbtrBbL"}],"documentFingerprint":"194efb4831546e4aaff705e3e10963e5"},"uri":"https://drive.google.com/uc?export=download&id=1yRD58SJOBKlmjIfNmtYNPkgUdEbtrBbL","target":[{"source":"https://drive.google.com/uc?export=download&id=1yRD58SJOBKlmjIfNmtYNPkgUdEbtrBbL","selector":[{"type":"TextPositionSelector","start":5871,"end":5899},{"type":"TextQuoteSelector","exact":"Condition of  ideal steering","prefix":"1.9 Steering mechanism (cont.)❑ ","suffix":"M e c h a n i c s   o f   M a c "}]}]}
 >```
 >%%
 >*%%PREFIX%%1.9 Steering mechanism (cont.)❑%%HIGHLIGHT%% ==Condition of  ideal steering== %%POSTFIX%%M e c h a n i c s   o f   M a c*
 >%%LINK%%[[#^rv6sskcotw|show annotation]]
 >%%COMMENT%%
->[[Condition of  ideal steering]]
+>[[Condition of ideal steering]]
 >%%TAGS%%
 >
 ^rv6sskcotw

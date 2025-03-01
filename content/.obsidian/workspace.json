@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "039e4178bfdd894d",
+        "id": "8a9d20d379e9c1c8",
         "type": "tabs",
         "children": [
           {
-            "id": "5656837d7b4917ba",
+            "id": "a4f2e8512710f838",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "condition of ideal steering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +188,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "5656837d7b4917ba",
+  "active": "1e5b1fcc4e9eb586",
   "lastOpenFiles": [
+    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
     "06 Project Management/Activity on Node.md",
     "06 Project Management/Activity on Arrow.md",
     "02 Mechanics of Machines/Ackermann steering.md",
@@ -214,7 +215,6 @@
     "04 Fluid Mechanics and Turbo Machinery/Viscosity.md",
     "01 Machine Construction/Shear Strain.md",
     "02 Mechanics of Machines/Input link.md",
-    "01 Machine Construction/Yield Strength.md",
-    "01 Machine Construction/Ultimate Tensile Strength.md"
+    "01 Machine Construction/Yield Strength.md"
   ]
 }
