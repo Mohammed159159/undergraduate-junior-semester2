@@ -11,51 +11,32 @@
             "id": "e74c5e960fd867bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "03 Casting and Welding/Labs/Labs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Meta/pdfs/Mechanics of Materials 7th Edition.md"
               },
               "icon": "lucide-file",
-              "title": "Labs"
+              "title": "Mechanics of Materials 7th Edition"
             }
           },
           {
-            "id": "d838b97a705af4a2",
+            "id": "9b453810babfeb70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "06 Project Management/Lectures/2025 Spring PM Lecture Notes.pdf",
+                "page": 9,
+                "left": 0,
+                "top": 649,
+                "zoom": 0.46691176470588236
               },
-              "icon": "lucide-file",
-              "title": "Mechanisms"
+              "icon": "lucide-file-text",
+              "title": "2025 Spring PM Lecture Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,15 +188,20 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "e74c5e960fd867bf",
+  "active": "9b453810babfeb70",
   "lastOpenFiles": [
+    "Meta/pdfs/Mechanics of Materials 7th Edition.md",
+    "06 Project Management/Sheets/2025 PM-All Sheets.pdf",
+    "03 Casting and Welding/Labs/Lab 2 - Welding.md",
+    "01 Machine Construction/Textbooks/Mechanics of Materials 7th.pdf - Google Drive.md",
+    "02 Mechanics of Machines/Labs/Lab1-Building Mechanisms.pdf",
+    "06 Project Management/Lectures/2025 Spring PM Lecture Notes.pdf",
+    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
+    "03 Casting and Welding/Labs/Labs.md",
     "03 Casting and Welding/Resources - Casting.md",
     "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision/Materials.md",
-    "03 Casting and Welding/Labs/Labs.md",
     "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision/Lab 1.md",
-    "Untitled.md",
     "02 Mechanics of Machines/Sheets/Exercise%201.pdf",
-    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
     "02 Mechanics of Machines/Condition of  ideal steering.md",
     "05 Electronics of Instrumentation/Sheets/Sheet 1 - Op-Amps.pdf",
     "02 Mechanics of Machines/Slider-crank mechanism.md",
@@ -234,17 +220,11 @@
     "Op-Amp Circuits.md",
     "Signal Filters Analysis.md",
     "Op-Amp Circuits Design.md",
-    "Design factors.md",
-    "Filters.md",
-    "Frequency domain.md",
     "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision",
     "03 Casting and Welding/Labs",
     "01 Machine Construction/Lectures/Lecture 1 - Introduction",
     "01 Machine Construction/Lectures",
     "Meta/assets/Excalidraw",
-    "05 Measurements and Intrumentation/Measurement final exams.pdf",
-    "05 Measurements and Intrumentation/الاجهزة فى زتونة للمادة المجنونة.pdf",
-    "05 Measurements and Intrumentation/-Note-05-38_annotated.pdf",
     "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.19_b377eea9.jpg",
     "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.32_a02ed705.jpg",
     "General/Final.jpg",
