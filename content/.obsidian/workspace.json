@@ -4,170 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21fa546310932c88",
+        "id": "93f31b173138e7ac",
         "type": "tabs",
-        "dimension": 35.924932975871315,
         "children": [
           {
-            "id": "1919ebcc89f11289",
+            "id": "fb799786cf2cf0d4",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Chapter 1-b.pdf - Google Drive.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chapter 1-b.pdf - Google Drive"
-            }
-          },
-          {
-            "id": "b5c7819d159bb538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mechanisms"
-            }
-          },
-          {
-            "id": "38d09e3c69686472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Mechanics of Machines/Lectures/Mechanisms 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mechanisms 2"
-            }
-          },
-          {
-            "id": "50ee1f541fe67bf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Mechanics of Machines/Tutorials/MDP212 - Tutorial 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MDP212 - Tutorial 3"
-            }
-          },
-          {
-            "id": "27f8e733fe9d8e4d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "02 Mechanics of Machines/Sheets/Exercise%201.pdf",
-                "page": 6,
-                "left": -4,
-                "top": 573,
-                "zoom": 0.94
-              },
-              "icon": "lucide-file-text",
-              "title": "Exercise%201"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "50fab0160ff239d6",
-        "type": "tabs",
-        "dimension": 64.07506702412869,
-        "children": [
-          {
-            "id": "fd2e247005ceed6b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/playlist?list=PLv0YmUz1fX40N5GUp7zUivREqp8B3kOEM",
-                "title": "Mechanics of Machines [MDP212] - YouTube",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Mechanics of Machines [MDP212] - YouTube"
-            }
-          },
-          {
-            "id": "5348d5d30e223c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Mechanics of Machines/Lectures/Lec 3.2  Mechanics of machine.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lec 3.2  Mechanics of machine"
-            }
-          },
-          {
-            "id": "4dd144af2dbbe51e",
-            "type": "leaf",
-            "state": {
-              "type": "mx-embed",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=MmTQrfmW44U"
-              },
-              "icon": "youtube",
-              "title": "YouTube"
-            }
-          }
-        ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -224,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 403.5
   },
   "right": {
     "id": "c2280210262366b6",
@@ -235,37 +85,6 @@
         "id": "854173b803b60e53",
         "type": "tabs",
         "children": [
-          {
-            "id": "273dd8611e681e14",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "13f380d1f75525d5",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
           {
             "id": "7e39e6e7c3c71bde",
             "type": "leaf",
@@ -301,19 +120,96 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02 Mechanics of Machines/Four-bar mechanism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Four-bar mechanism"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "db7147ea661ea76b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273dd8611e681e14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 Mechanics of Machines/Four-bar mechanism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Four-bar mechanism"
+            }
+          },
+          {
+            "id": "13f380d1f75525d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 Mechanics of Machines/Four-bar mechanism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Four-bar mechanism"
+            }
+          },
+          {
+            "id": "52b210697a91a77f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7084715741045378,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 605.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -339,43 +235,52 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "38d09e3c69686472",
+  "active": "1e5b1fcc4e9eb586",
   "lastOpenFiles": [
-    "Meta/assets/Pasted image 20250304153225.png",
-    "02 Mechanics of Machines/Lectures/Mechanisms 2.md",
-    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
-    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Chapter 1-b.pdf - Google Drive.md",
-    "Meta/assets/Pasted image 20250304152941.png",
-    "Meta/assets/Pasted image 20250304151242.png",
-    "Meta/assets/Pasted image 20250304150932.png",
-    "Meta/assets/Pasted image 20250304150633.png",
-    "02 Mechanics of Machines/Lectures/Lec 3.2  Mechanics of machine.md",
-    "02 Mechanics of Machines/Lectures/Lectures.md",
-    "Meta/assets/Pasted image 20250304145947.png",
-    "02 Mechanics of Machines/Sheets/Exercise%201.pdf",
-    "02 Mechanics of Machines/Tutorials/MDP212 - Tutorial 3.md",
-    "02 Mechanics of Machines/Steering mechanism.md",
-    "02 Mechanics of Machines/Relation between the angular velocities.md",
-    "Meta/assets/Pasted image 20250304141857.png",
-    "02 Mechanics of Machines/Tutorials",
-    "02 Mechanics of Machines/Sheets/‪Malazem‬‏ - Google Drive.md",
-    "02 Mechanics of Machines/Sheets/‪Sections‬‏ - Google Drive.md",
-    "02 Mechanics of Machines/Sheets/‪Sheets solution‬‏ - Google Drive.md",
-    "02 Mechanics of Machines/Textbooks/2014_Book_FundamentalsOfRoboticMechanica.pdf - Google Drive.md",
-    "02 Mechanics of Machines/Textbooks",
-    "General/Resources.md",
-    "06 Project Management/Sheets/2025 PM-All Sheets.pdf",
-    "Untitled.md",
-    "06 Project Management/Sheets/Instructions.md",
-    "06 Project Management/Activity on Node.md",
-    "06 Project Management/Activity on Arrow.md",
-    "02 Mechanics of Machines/Ackermann steering.md",
-    "04 Fluid Mechanics and Turbo Machinery/Coefficient of Compressibility.md",
-    "04 Fluid Mechanics and Turbo Machinery/Coefficient of Volume Expansion.md",
-    "04 Fluid Mechanics and Turbo Machinery/Continuum Hypothesis.md",
-    "04 Fluid Mechanics and Turbo Machinery/Governing Equations.md",
-    "02 Mechanics of Machines/Gear box to back axel.md",
-    "04 Fluid Mechanics and Turbo Machinery/Dimensions and Units.md",
-    "02 Mechanics of Machines/Hooke’s joint (Universal Joint).md"
+    "01 Machine Construction/Tutorials/Tutorial 3/Loading Diagrams Part - 2.md",
+    "01 Machine Construction/Tutorials/Tutorial 3/Loading Diagrams - Part 1.md",
+    "Trusses.md",
+    "01 Machine Construction/Tutorials/Tutorial 3/q5.pdf",
+    "01 Machine Construction/Tutorials/Tutorial 3/q5.xopp~",
+    "Meta/assets/Pasted image 20250307033648.png",
+    "Meta/assets/Pasted image 20250307025555.png",
+    "Meta/assets/Pasted image 20250307025127.png",
+    "02 Mechanics of Machines/Lectures/Lecture 3 - Graphical Synthesis of Mechanisms/Follow Graphical Synthesis of Mechanisms.md",
+    "Meta/assets/Pasted image 20250307014135.png",
+    "Meta/assets/Pasted image 20250307014125.png",
+    "Meta/assets/Pasted image 20250307014103.png",
+    "Meta/assets/Pasted image 20250307013916.png",
+    "Meta/assets/Pasted image 20250307013837.png",
+    "Meta/assets/Pasted image 20250307013754.png",
+    "02 Mechanics of Machines/Lectures/Lecture 3 - Graphical Synthesis of Mechanisms/Graphical Synthesis of Mechanisms.md",
+    "/01 Machine Construction/Tutorials/Tutorial 3/q5.xopp",
+    "01 Machine Construction/Tutorials/Tutorial 3/q5.xopp",
+    "/01 Machine Construction/Tutorials/Tutorial 3",
+    "/01 Machine Construction/Tutorials",
+    "/01 Machine Construction",
+    "Beams.md",
+    "Meta/assets/Pasted image 20250307002845.png",
+    "01 Machine Construction/Tutorials/Tutorials.md",
+    "01 Machine Construction/Tutorials/Tutorial 3/Tut 2 Loading Diagram.md",
+    "01 Machine Construction/Tutorials/Tutorial 3",
+    "01 Machine Construction/Resources - Machine Construction.md",
+    "01 Machine Construction/Tutorials/Tutorial 1/Solved Examples on Properties of Area.md",
+    "01 Machine Construction/Tutorials/Tutorial 1/Properties of Area.md",
+    "01 Machine Construction/Labs/Intro to Finite Element Analysis.md",
+    "01 Machine Construction/How is the 𝐂𝐨𝐧𝐜𝐞𝐩𝐭 𝐨𝐟 𝐃𝐞𝐠𝐫𝐞𝐞𝐬 𝐨𝐟 𝐅𝐫𝐞𝐞𝐝𝐨𝐦 (𝐃𝐎𝐅) defined in Finite Element Analysis (𝐅𝐄𝐀).md",
+    "01 Machine Construction/Untitled.md",
+    "05 Electronics of Instrumentation/Sheets/Instructions.md",
+    "05 Electronics of Instrumentation/Lectures/Lecture 1.md",
+    "05 Electronics of Instrumentation/Labs/Electronics of Instrumentation - Lab 1 - Op-Amps.md",
+    "01 Machine Construction/Tutorials/Tutorial 2",
+    "01 Machine Construction/Tutorials/Tutorial 1/Tutorial 1 (& lab 1).md",
+    "01 Machine Construction/Types of Supports.md",
+    "01 Machine Construction/Poisson's Ratio.md",
+    "01 Machine Construction/Lectures/Lecture 1 - Introduction/Introduction.md",
+    "01 Machine Construction/Properties of Area.md",
+    "01 Machine Construction/2nd Moment of Area.md",
+    "01 Machine Construction/Centroid.md",
+    "01 Machine Construction/Area.md",
+    "Meta/assets/Sheet 1.pdf"
   ]
 }

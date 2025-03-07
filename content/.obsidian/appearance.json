@@ -4,7 +4,7 @@
   "interfaceFontFamily": "Rubik",
   "textFontFamily": "Rubik",
   "baseFontSizeAction": true,
-  "baseFontSize": 24,
+  "baseFontSize": 18,
   "showViewHeader": true,
   "enabledCssSnippets": [
     "center"

@@ -1,0 +1,2 @@
+- [[Types of Synthesis of Mechanisms]]
+- [[Methods of Mechanisms Synthesis]]

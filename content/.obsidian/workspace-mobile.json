@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "52ee2983d51a7384",
+        "id": "0485008b9ee302ee",
         "type": "tabs",
         "children": [
           {
-            "id": "e74c5e960fd867bf",
+            "id": "36dd0fe85e504031",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "Meta/pdfs/Mechanics of Materials 7th Edition.md"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mechanics of Materials 7th Edition"
-            }
-          },
-          {
-            "id": "9b453810babfeb70",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "06 Project Management/Lectures/2025 Spring PM Lecture Notes.pdf",
-                "page": 9,
-                "left": 0,
-                "top": 649,
-                "zoom": 0.46691176470588236
-              },
-              "icon": "lucide-file-text",
-              "title": "2025 Spring PM Lecture Notes"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Control",
+            "query": "\"Example",
             "matchingCase": false,
             "explainSearch": true,
             "collapseAll": false,
@@ -188,43 +169,46 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "9b453810babfeb70",
+  "active": "36dd0fe85e504031",
   "lastOpenFiles": [
+    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
+    "Solved Examples on Properties of Area.md",
+    "01 Machine Construction/Tutorials/Properties of Area.md",
+    "01 Machine Construction/Tutorials/Tutorial 1/Tutorial 1 (& lab 1).md",
+    "02 Mechanics of Machines/Sheets/Sheet 1.md",
+    "index.md",
+    "ASUPEDIA Forum.md",
+    "01 Machine Construction/Properties of Area.md",
+    "02 Mechanics of Machines/Graphical Synthesis of Mechanisms.md",
+    "02 Mechanics of Machines/Lectures/Lecture 3 - Graphical Synthesis of Mechanisms/Chapter 2.pdf - Google Drive.md",
+    "02 Mechanics of Machines/Lectures/Lecture 3 - Graphical Synthesis of Mechanisms/Graphical Synthesis of Mechanisms.md",
+    "02 Mechanics of Machines/Lectures/Lecture 3 - Graphical Synthesis of Mechanisms/Follow Graphical Synthesis of Mechanisms.md",
+    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms 2.md",
+    "02 Mechanics of Machines/Four Bar Chain Mechanism  Grashof's Law  Inversion Of Four Bar Chain.md",
+    "Meta/assets/Exercise 2.pdf",
+    "02 Mechanics of Machines/Sheets/Sheet 2.md",
+    "02 Mechanics of Machines/Scotch yoke - Wikipedia.md",
+    "Meta/assets/Screenshot_2025-03-06-10-04-53-209_com.google.android.youtube.jpg",
+    "Meta/assets/Screenshot_2025-03-06-09-51-45-536_com.google.android.youtube.jpg",
+    "02 Mechanics of Machines/Lectures/Lectures.md",
+    "General/Resources.md",
+    "03 Casting and Welding/Resources - Casting & Welding.md",
     "Meta/pdfs/Mechanics of Materials 7th Edition.md",
+    "06 Project Management/Lectures/2025 Spring PM Lecture Notes.pdf",
     "06 Project Management/Sheets/2025 PM-All Sheets.pdf",
     "03 Casting and Welding/Labs/Lab 2 - Welding.md",
     "01 Machine Construction/Textbooks/Mechanics of Materials 7th.pdf - Google Drive.md",
     "02 Mechanics of Machines/Labs/Lab1-Building Mechanisms.pdf",
-    "06 Project Management/Lectures/2025 Spring PM Lecture Notes.pdf",
-    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
     "03 Casting and Welding/Labs/Labs.md",
-    "03 Casting and Welding/Resources - Casting.md",
     "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision/Materials.md",
     "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision/Lab 1.md",
     "02 Mechanics of Machines/Sheets/Exercise%201.pdf",
     "02 Mechanics of Machines/Condition of  ideal steering.md",
     "05 Electronics of Instrumentation/Sheets/Sheet 1 - Op-Amps.pdf",
-    "02 Mechanics of Machines/Slider-crank mechanism.md",
-    "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorial 1 - Viscosity and Shear Stress/Chapter 1 Fluid Properties (Viscosity).md",
-    "02 Mechanics of Machines/Ground.md",
-    "01 Machine Construction/Lectures/Lecture 1 - Introduction/Introduction.md",
-    "05 Electronics of Instrumentation/Op-Amps.md",
-    "Estimation vs Accuracy.md",
-    "Circuit Analysis.md",
-    "Common Sense.md",
-    "Types of Filters.md",
-    "Signals.md",
-    "Signal Conditioning.md",
-    "Signal Manipulation.md",
-    "Signal Filters.md",
-    "Op-Amp Circuits.md",
-    "Signal Filters Analysis.md",
-    "Op-Amp Circuits Design.md",
     "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision",
     "03 Casting and Welding/Labs",
     "01 Machine Construction/Lectures/Lecture 1 - Introduction",
     "01 Machine Construction/Lectures",
-    "Meta/assets/Excalidraw",
     "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.19_b377eea9.jpg",
     "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.32_a02ed705.jpg",
     "General/Final.jpg",
@@ -233,8 +217,6 @@
     "01 Introduction to Mechatronics/Meta/assets/IMG-20241124-WA0013.jpg",
     "01 Introduction to Mechatronics/Meta/assets/IMG-20241124-WA0012.jpg",
     "01 Introduction to Mechatronics/Meta/assets/IMG-20241124-WA0011.jpg",
-    "05 Measurements and Intrumentation/Labs/IMG-20241015-WA0011.jpg",
-    "05 Measurements and Intrumentation/Labs/IMG-20241015-WA0009.jpg",
     "Meta/assets/Canvases/Untitled 1.canvas"
   ]
 }

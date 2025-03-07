@@ -27,6 +27,7 @@ tags:
 > - Load parallel to cross-sectional area $\to$ [[Shear]] or [[Bending]]
 > - Load twists/squeezes the part $\to$ [[Torsion]]
 
+> [!question] Where are Force, Moment, Torsion, and Torque from this map?
 
 ---
 

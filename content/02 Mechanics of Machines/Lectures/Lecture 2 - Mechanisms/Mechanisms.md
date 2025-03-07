@@ -84,7 +84,8 @@ tags:
 ---
 
 > [!Note] [02:08:34](https://www.youtube.com/watch?v=ADRx8PfSvSQ&t=7714#t=2:08:34.50) [[Ackermann steering]]
-> Approximates the [[Condition of ideal steering]]
+> - Approximates the [[Condition of ideal steering]]
+>  ![[Pasted image 20250304173700.png]]
 
 ---
 

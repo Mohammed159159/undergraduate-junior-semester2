@@ -9,7 +9,7 @@ tags:
 
 > [!Note] [02:13](https://www.youtube.com/watch?v=YNnbJ4wd84s&t=134#t=02:13.58) [[Hooke’s joint (Universal Joint)]]
 > - Space mechanism
-> - Gear box to back axel -> Two Hooke's joints
+> - [[Gear box to back axel]] -> Two Hooke's joints
 
 ---
 
@@ -36,10 +36,8 @@ tags:
 > > [!question] $xy+1-x = (1-x)(1-y)$
 > 
 > Final result:
-> $$
- \Huge
- \frac{w}{w_1} = \frac{1-\cos^2 \theta \sin^2\alpha}{\cos\alpha}
- $$
+> 
+> $$\boxed{\Huge \frac{w}{w_1} = \frac{1-\cos^2 \theta \sin^2\alpha}{\cos\alpha}}$$
  
 ---
 
@@ -52,7 +50,31 @@ tags:
 ---
 
 > [!Note] [12:22](https://www.youtube.com/watch?v=MmTQrfmW44U&t=742#t=12:22.37) Understanding fluctuation using [[Relation between the angular velocities]]
+> ![[Pasted image 20250304162913.png]]
+> > [!warning] $w_{mean} \neq \frac{w_1+w_2}{2}$
 > 
+> 
+> > To better understand fluctuation, it is better to relate it to the mean speed (speed of driving shaft) and express it as a percentage of it
+> > ![[Pasted image 20250304163655.png]]
+> > - as $\alpha$ increases, fluctuation increases
+> 
+
+---
+
+> [!Note] [24:03](https://www.youtube.com/watch?v=MmTQrfmW44U&t=1444#t=24:03.62) [[Conditions of equal speeds]]
+> Using $\dfrac{w}{w_1} = 1$:
+> 
+> ![[Pasted image 20250304164459.png]]
+> $$\Huge \boxed{\tan\theta = \pm\sqrt{\cos\alpha}}$$
+
+---
+
+> [!Note] [28:11](https://www.youtube.com/watch?v=MmTQrfmW44U&t=1691#t=28:11.06) Using multiple [[Hooke’s joint (Universal Joint)]] to transmit motion between two parallel shaft's 
+> > By ensuring that the forks of the intermediate shaft are assembled on the same plane, fluctuations at on joint of the shaft are eliminated at the other joint, limiting the fluctuations to the intermediate shaft only
+> > ![[Pasted image 20250304165313.png]]
+> 
+> > On the other hand, if the forks are assembled on planes perpendicular to each other, fluctuations at on joint are amplified at the other joint
+> > ![[Pasted image 20250304165643.png]]
 
 ---
 

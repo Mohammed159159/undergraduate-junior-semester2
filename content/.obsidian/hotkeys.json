@@ -300,12 +300,12 @@
       "key": "V"
     }
   ],
-  "file-explorer:reveal-active-file": [
+  "workspaces:save-and-load": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "V"
+      "key": "A"
     }
   ]
 }
