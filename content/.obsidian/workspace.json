@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf2414fc8e7351ad",
+        "id": "209bb1c00a546140",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4472511e15f756",
+            "id": "d8a1c182e3fff1ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Machine Construction/Resources - Machine Construction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Resources - Machine Construction"
+              "title": "New tab"
             }
           }
         ],
@@ -89,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "right": {
     "id": "c2280210262366b6",
@@ -249,15 +236,43 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "1e5b1fcc4e9eb586",
+  "active": "d8a1c182e3fff1ff",
   "lastOpenFiles": [
-    "01 Machine Construction/Resources - Machine Construction.md",
+    "01 Machine Construction/Labs/Lab 1/Intro to Finite Element Analysis.md",
+    "01 Machine Construction/How is the 𝐂𝐨𝐧𝐜𝐞𝐩𝐭 𝐨𝐟 𝐃𝐞𝐠𝐫𝐞𝐞𝐬 𝐨𝐟 𝐅𝐫𝐞𝐞𝐝𝐨𝐦 (𝐃𝐎𝐅) defined in Finite Element Analysis (𝐅𝐄𝐀).md",
+    "01 Machine Construction/Tutorials/Tutorials.md",
+    "01 Machine Construction/Tutorials/Tutorial 3 - Stress Analysis/Tutorial 3 - Stress Part 1.md",
+    "01 Machine Construction/Tutorials/Tutorial 3 - Stress Analysis/Tutorial  3 - Stress Part 2.md",
+    "Meta/assets/Pasted image 20250309010729.png",
+    "Meta/assets/Pasted image 20250309004907.png",
     "01 Machine Construction/Labs/Lab 2/Lab 2 - 1D Element Stress Analysis.md",
+    "Manufacturing.md",
+    "Casting.md",
+    "Forming.md",
+    "Additive Manufacturing.md",
+    "CNC Milling.md",
+    "EMAR – The First Egyptian Built CNC Milling Machines.md",
+    "Meta/assets/Pasted image 20250308222953.png",
+    "Meta/assets/Pasted image 20250308222228.png",
+    "Meta/assets/Pasted image 20250308222119.png",
+    "Meta/assets/Pasted image 20250308222059.png",
+    "Meta/assets/Pasted image 20250308222018.png",
+    "Meta/assets/Pasted image 20250308221918.png",
+    "Meta/assets/Pasted image 20250308221803.png",
+    "Meta/assets/Pasted image 20250308221647.png",
+    "CNC.md",
+    "Subtractive Manufacturing.md",
+    "Machining.md",
+    "Milling.md",
+    "CNC vs. Conventional Milling.md",
+    "Drilling.md",
+    "Machinability.md",
+    "Machinability - an overview  ScienceDirect Topics.md",
+    "01 Machine Construction/Resources - Machine Construction.md",
     "01 Machine Construction/Labs/Report.1.pdf",
     "01 Machine Construction/Labs/Lab 1/Instructions.md",
     "01 Machine Construction/Labs/Lab 2",
     "01 Machine Construction/Labs/Lab 1",
-    "01 Machine Construction/Tutorials/Tutorials.md",
     "01 Machine Construction/Lectures/Solved Example 4 (1).pdf",
     "01 Machine Construction/Lectures/solved example 3 (1).pdf",
     "01 Machine Construction/Lectures/Solved example 2 (2).pdf",
@@ -266,35 +281,8 @@
     "02 Mechanics of Machines/Assignments/2200724.pdf",
     "02 Mechanics of Machines/Assignments/Assignment 1.pdf",
     "01 Machine Construction/Design.md",
-    "01 Machine Construction/Tutorials/Tutorial 3 - Stress Analysis/Tutorial 3 - Stress 1.md",
     "01 Machine Construction/Design Relation.md",
     "01 Machine Construction/Loading.md",
-    "01 Machine Construction/Stress.md",
-    "01 Machine Construction/Section.md",
-    "01 Machine Construction/Types of Loading.md",
-    "01 Machine Construction/Element.md",
-    "01 Machine Construction/State of Stress.md",
-    "01 Machine Construction/Normal Stress.md",
-    "01 Machine Construction/Types of Stress.md",
-    "01 Machine Construction/Lectures/Lecture 1 - Introduction/Introduction.md",
-    "01 Machine Construction/Loading Conditions.md",
-    "01 Machine Construction/Structure.md",
-    "01 Machine Construction/Properties of Area.md",
-    "01 Machine Construction/Bending Moment.md",
-    "01 Machine Construction/Stress Distribution.md",
-    "01 Machine Construction/Normal Stress Distribution.md",
-    "01 Machine Construction/First Moment of Area.md",
-    "01 Machine Construction/Critical section.md",
-    "Meta/assets/Pasted image 20250308160952.png",
-    "Meta/assets/Pasted image 20250308153022.png",
-    "Meta/assets/Pasted image 20250308152052.png",
-    "Meta/assets/Pasted image 20250308151236.png",
-    "01 Machine Construction/Tutorials/Tutorial 1 - Properties of Area/Tutorial 1 - Properties of Area.md",
-    "Meta/assets/Pasted image 20250308150059.png",
-    "Meta/assets/Pasted image 20250308104815.png",
-    "Meta/assets/Pasted image 20250308094259.png",
-    "Meta/assets/Pasted image 20250308085829.png",
-    "Meta/assets/Pasted image 20250307233243.png",
-    "Meta/assets/Pasted image 20250307231701.png"
+    "01 Machine Construction/Stress.md"
   ]
 }
