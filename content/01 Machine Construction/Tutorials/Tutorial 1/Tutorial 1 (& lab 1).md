@@ -1,1 +1,0 @@
-https://engasuedu.sharepoint.com/sites/MDP112sUG2018-MachineConstruction37138/Shared%20Documents/General/Recordings/Lab%201-20250220_185526-Meeting%20Recording.mp4?web=1

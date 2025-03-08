@@ -32,12 +32,12 @@
       },
       {
         "protocol": "https:",
-        "hostname": "www.youtube.com",
+        "hostname": "youtu.be",
         "port": ""
       },
       {
         "protocol": "https:",
-        "hostname": "youtu.be",
+        "hostname": "www.youtube.com",
         "port": ""
       }
     ],

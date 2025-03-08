@@ -34,6 +34,8 @@ https://drive.google.com/drive/folders/1AQQotHiGRh1ZjYzGqVhgvvgriP2a3erN
 
 https://t.me/machinehhh/58
 
+[Fall 2020 - Google Drive](https://drive.google.com/drive/folders/1AQQotHiGRh1ZjYzGqVhgvvgriP2a3erN)
+
 🔹 *Labs*
 
 ▶️ *Eng/ Eslam Maged*
@@ -50,8 +52,10 @@ https://www.ansys.com/academic/students
 
 https://youtube.com/playlist?list=PLl76ggYr34s1N4IyaH3kQyNqdVpRJQB_d&si=zxfhrdRAMbWO6izm
 
-▶️ Extra playlist
+▶️ Extra playlists
 https://www.youtube.com/playlist?list=PLR2RsKKRngz5wxTauNTPx_UnE7GLrXshp
+
+https://www.youtube.com/playlist?list=PLR2RsKKRngz7TgBOq1yaaARjAMGGoP2V7
 
 ---
 

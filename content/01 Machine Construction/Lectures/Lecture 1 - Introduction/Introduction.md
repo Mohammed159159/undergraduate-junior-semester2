@@ -59,7 +59,7 @@ tags:
 
 ---
 
-> [!Note] [01:05:54](https://www.youtube.com/watch?v=RMINw5r4lVU&t=3954#t=1:05:54.14) Types of [[Stress]]
+> [!Note] [01:05:54](https://www.youtube.com/watch?v=RMINw5r4lVU&t=3954#t=1:05:54.14) [[Types of Stress]]
 > ![[Pasted image 20250218232906.png]]
 > ![[Pasted image 20250218232927.png]]
 > ![[Pasted image 20250218232958.png]]
