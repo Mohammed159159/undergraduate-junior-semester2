@@ -9,6 +9,15 @@ annotation-target-type: pdf
 | ------------------------------------------ |
 <iframe src="https://drive.google.com/file/d/1s3ade_YsWJcvzq8Qp-GlaDlD5nld94Ek/preview" style="width:100%; aspect-ratio:1" frameborder="0" allow-popups-to-escape-sandbox></iframe>
 
+---
+
+| [Open Original](https://drive.google.com/file/d/1AKbU2y24M5y79katCWniQM8813g12FKX/view?usp=drive_link) |
+| ------------------------------------------ |
+<iframe src="https://drive.google.com/file/d/1AKbU2y24M5y79katCWniQM8813g12FKX/preview" style="width:100%; aspect-ratio:1" frameborder="0" allow-popups-to-escape-sandbox></iframe>
+
+
+---
+
 >%%
 >```annotation-json
 >{"text":"[[Synthesis of Mechanisms]]\n> [[Methods of Mechanisms Synthesis]]","target":[{"source":"https://drive.google.com/uc?export=download&id=1s3ade_YsWJcvzq8Qp-GlaDlD5nld94Ek","selector":[{"type":"TextPositionSelector","start":19,"end":42},{"type":"TextQuoteSelector","exact":"Synthesis of Mechanisms","prefix":"%200%300%400%Chapter 2Graphical","suffix":"A s s o c .   P r o f .   Mohamm"}]}],"created":"2025-03-05T07:39:46.072Z","updated":"2025-03-05T07:39:46.072Z","document":{"title":"Slide 1","link":[{"href":"urn:x-pdf:269309b7a51854488a306de8bb081502"},{"href":"https://drive.google.com/uc?export=download&id=1s3ade_YsWJcvzq8Qp-GlaDlD5nld94Ek"}],"documentFingerprint":"269309b7a51854488a306de8bb081502"},"uri":"https://drive.google.com/uc?export=download&id=1s3ade_YsWJcvzq8Qp-GlaDlD5nld94Ek"}

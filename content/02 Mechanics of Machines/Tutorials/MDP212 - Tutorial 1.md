@@ -13,7 +13,7 @@ tags:
 
 ---
 
-> [!Note] [01:03:59](https://www.youtube.com/watch?v=DF9w_qNDEQ4&t=3839#t=1:03:59.25) Some times a mechanism is designed to be locked with a removable link that converts the mechanism to constrained
+> [!Note] [01:03:59](https://www.youtube.com/watch?v=DF9w_qNDEQ4&t=3839#t=1:03:59.25) Sometimes a mechanism is designed to be locked with a removable link that converts the mechanism to constrained
 
 ---
 

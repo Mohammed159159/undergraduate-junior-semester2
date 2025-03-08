@@ -9,6 +9,8 @@ tags:
 
 > [!Note] [01:37:02](https://www.youtube.com/watch?v=fTj4tjo26IM&t=5822#t=1:37:02.08) [[Complex Numbers Differentiation]]
 >  - Differentiation of a vector with respect to time gives a perpendicular vector to the original vector scaled by the rate of change of the angular displacement of that vector
+>    
+>    
 >  $$\Huge \frac{d}{dt}\vec{R}=R\omega \angle{(\theta + 90^\circ)}$$
 
 ---
