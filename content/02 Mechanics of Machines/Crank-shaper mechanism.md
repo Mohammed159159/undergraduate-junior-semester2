@@ -1,0 +1,1 @@
+- [[Synthesis of the crank-shaper mechanism]]

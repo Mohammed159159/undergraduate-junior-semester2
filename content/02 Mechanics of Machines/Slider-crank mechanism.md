@@ -1,1 +1,7 @@
 - Also known as engine mechanism
+- Slider crank
+	- [[In-Line Slider-Crank Mechanism]]
+	- [[Offset Slider-Crank Mechanism]]
+  - Quick return
+	- [[Crank-shaper mechanism]]
+- [[Oscillating cylinder]]

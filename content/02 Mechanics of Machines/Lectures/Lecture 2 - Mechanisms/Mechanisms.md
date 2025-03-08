@@ -25,6 +25,8 @@ tags:
 > - Achieves quick-return behavior
 > > This is not the only mechanism to achieve the quick return behavior, but that's what it is famous for
 > 
+> > [!info] This inversion of the [[Slider-crank mechanism]] is called [[Crank-shaper mechanism]]
+> 
 > ![[Pasted image 20250222144659.png]]
 > ![[Pasted image 20250222145158.png]]
 

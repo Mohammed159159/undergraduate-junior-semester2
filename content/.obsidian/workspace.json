@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93f31b173138e7ac",
+        "id": "711cc715aff007a9",
         "type": "tabs",
         "children": [
           {
-            "id": "fb799786cf2cf0d4",
+            "id": "1122cbbf8262a688",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "condition of ideal steering",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "right": {
     "id": "c2280210262366b6",
@@ -235,52 +235,53 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "1e5b1fcc4e9eb586",
+  "active": "1122cbbf8262a688",
   "lastOpenFiles": [
-    "01 Machine Construction/Tutorials/Tutorial 3/Loading Diagrams Part - 2.md",
-    "01 Machine Construction/Tutorials/Tutorial 3/Loading Diagrams - Part 1.md",
-    "Trusses.md",
+    "02 Mechanics of Machines/Complex Numbers.md",
+    "02 Mechanics of Machines/Analysis.md",
+    "02 Mechanics of Machines/Lectures/Lecture 5 - Velocity Analysis of Mechanisms/Lecture 5 - Velocity Analysis of Mechanisms.md",
+    "02 Mechanics of Machines/Mechanism Analysis.md",
+    "02 Mechanics of Machines/Velocity Analysis.md",
+    "02 Mechanics of Machines/Analytical Velocity Analysis.md",
+    "02 Mechanics of Machines/Relative velocity of two points on of a moving link.md",
+    "02 Mechanics of Machines/Velocity.md",
+    "02 Mechanics of Machines/Lectures/Lecture 4 - Positional Analysis of Mechanisms/Lecture 4 - Positional Analysis.md",
+    "02 Mechanics of Machines/Offset Slider-Crank Mechanism.md",
+    "02 Mechanics of Machines/Complex Numbers Differentiation.md",
+    "lec 4 mechanics of machine.md",
+    "02 Mechanics of Machines/Lectures/Lecture 5 - Velocity Analysis of Mechanisms",
+    "02 Mechanics of Machines/Vector Loop Equation.md",
+    "Meta/assets/Pasted image 20250308104815.png",
+    "02 Mechanics of Machines/Vectors.md",
+    "02 Mechanics of Machines/Motion.md",
+    "02 Mechanics of Machines/Positional Analysis.md",
+    "02 Mechanics of Machines/Modeling.md",
+    "02 Mechanics of Machines/Mathematical Model.md",
+    "02 Mechanics of Machines/Value of an engineer.md",
+    "02 Mechanics of Machines/Analytical Position Analysis.md",
+    "02 Mechanics of Machines/Analytical Analysis.md",
+    "02 Mechanics of Machines/Graphical Analysis.md",
+    "02 Mechanics of Machines/Graphical Model.md",
+    "02 Mechanics of Machines/Graphical Position Analysis.md",
+    "Meta/assets/Pasted image 20250308094259.png",
+    "Meta/assets/Pasted image 20250308085829.png",
+    "01 Machine Construction/Tutorials/Tutorial 3/Loading Diagrams - Part 3.md",
+    "01 Machine Construction/Loading diagrams.md",
+    "Meta/assets/Pasted image 20250307233243.png",
+    "Meta/assets/Pasted image 20250307231701.png",
+    "Meta/assets/Pasted image 20250307230229.png",
+    "Meta/assets/Pasted image 20250307224952.png",
+    "Meta/assets/Pasted image 20250307224742.png",
+    "Meta/assets/Pasted image 20250307224521.png",
+    "Meta/assets/Pasted image 20250307222947.png",
+    "02 Mechanics of Machines/Lectures/Lecture 4 - Positional Analysis of Mechanisms/desktop.ini",
+    "02 Mechanics of Machines/Lectures/Lecture 4 - Positional Analysis of Mechanisms",
     "01 Machine Construction/Tutorials/Tutorial 3/q5.pdf",
     "01 Machine Construction/Tutorials/Tutorial 3/q5.xopp~",
-    "Meta/assets/Pasted image 20250307033648.png",
-    "Meta/assets/Pasted image 20250307025555.png",
-    "Meta/assets/Pasted image 20250307025127.png",
-    "02 Mechanics of Machines/Lectures/Lecture 3 - Graphical Synthesis of Mechanisms/Follow Graphical Synthesis of Mechanisms.md",
-    "Meta/assets/Pasted image 20250307014135.png",
-    "Meta/assets/Pasted image 20250307014125.png",
-    "Meta/assets/Pasted image 20250307014103.png",
-    "Meta/assets/Pasted image 20250307013916.png",
-    "Meta/assets/Pasted image 20250307013837.png",
-    "Meta/assets/Pasted image 20250307013754.png",
-    "02 Mechanics of Machines/Lectures/Lecture 3 - Graphical Synthesis of Mechanisms/Graphical Synthesis of Mechanisms.md",
     "/01 Machine Construction/Tutorials/Tutorial 3/q5.xopp",
     "01 Machine Construction/Tutorials/Tutorial 3/q5.xopp",
     "/01 Machine Construction/Tutorials/Tutorial 3",
     "/01 Machine Construction/Tutorials",
-    "/01 Machine Construction",
-    "Beams.md",
-    "Meta/assets/Pasted image 20250307002845.png",
-    "01 Machine Construction/Tutorials/Tutorials.md",
-    "01 Machine Construction/Tutorials/Tutorial 3/Tut 2 Loading Diagram.md",
-    "01 Machine Construction/Tutorials/Tutorial 3",
-    "01 Machine Construction/Resources - Machine Construction.md",
-    "01 Machine Construction/Tutorials/Tutorial 1/Solved Examples on Properties of Area.md",
-    "01 Machine Construction/Tutorials/Tutorial 1/Properties of Area.md",
-    "01 Machine Construction/Labs/Intro to Finite Element Analysis.md",
-    "01 Machine Construction/How is the 𝐂𝐨𝐧𝐜𝐞𝐩𝐭 𝐨𝐟 𝐃𝐞𝐠𝐫𝐞𝐞𝐬 𝐨𝐟 𝐅𝐫𝐞𝐞𝐝𝐨𝐦 (𝐃𝐎𝐅) defined in Finite Element Analysis (𝐅𝐄𝐀).md",
-    "01 Machine Construction/Untitled.md",
-    "05 Electronics of Instrumentation/Sheets/Instructions.md",
-    "05 Electronics of Instrumentation/Lectures/Lecture 1.md",
-    "05 Electronics of Instrumentation/Labs/Electronics of Instrumentation - Lab 1 - Op-Amps.md",
-    "01 Machine Construction/Tutorials/Tutorial 2",
-    "01 Machine Construction/Tutorials/Tutorial 1/Tutorial 1 (& lab 1).md",
-    "01 Machine Construction/Types of Supports.md",
-    "01 Machine Construction/Poisson's Ratio.md",
-    "01 Machine Construction/Lectures/Lecture 1 - Introduction/Introduction.md",
-    "01 Machine Construction/Properties of Area.md",
-    "01 Machine Construction/2nd Moment of Area.md",
-    "01 Machine Construction/Centroid.md",
-    "01 Machine Construction/Area.md",
-    "Meta/assets/Sheet 1.pdf"
+    "/01 Machine Construction"
   ]
 }

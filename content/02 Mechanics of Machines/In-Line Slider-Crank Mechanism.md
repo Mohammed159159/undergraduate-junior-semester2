@@ -1,0 +1,1 @@
+- [[Design of a slider-crank mechanism (Analytically)]]

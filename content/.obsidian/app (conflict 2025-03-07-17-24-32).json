@@ -44,6 +44,5 @@
   "defaultViewMode": "source",
   "userIgnoreFilters": [
     "Meta/templates/"
-  ],
-  "newLinkFormat": "shortest"
+  ]
 }

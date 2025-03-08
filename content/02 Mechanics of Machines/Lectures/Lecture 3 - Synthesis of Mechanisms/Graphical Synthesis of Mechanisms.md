@@ -18,7 +18,12 @@ tags:
 ---
 
 > [!Note] [39:30](https://www.youtube.com/watch?v=MmTQrfmW44U&t=2371#t=39:30.85) [[Extreme positions]] (in [[Four-bar mechanism]])
-> > [!warning] If $\delta = 0$, $\psi = \beta$, return = go
+> Why is the difference between the larger angle $\beta$ and the smaller angle $\varphi$ equal to $2\delta$?
+> - $\varphi$ needs a $\delta$ to be 180$^\circ$
+> - $\beta$ is larger than 180$^\circ$ by $\delta$
+> - So $\varphi$ needs  another $\delta$ to be as $\beta$
+> 
+> > [!warning] If $\delta = 0$, $\varphi = \beta$, return = go
 > > ![[Pasted image 20250305081809.png]]
 > > Two extreme positions coincide on each other
 

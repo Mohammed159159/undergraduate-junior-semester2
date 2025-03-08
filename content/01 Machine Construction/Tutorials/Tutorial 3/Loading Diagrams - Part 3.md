@@ -18,7 +18,9 @@ tags:
 ---
 
 > [!Note] [02:27](https://www.youtube.com/watch?v=MWUM8Oe-d5g&t=147#t=02:27.17) [[Loading diagrams]] sequence
-> External Reactions -> Internal Reactions (internal forces) ->  Loading diagrams \[For each member]
+> 1. Statics 
+> 	- External Reactions -> Internal Reactions (internal forces)
+> 2. Loading diagrams \[For each member]
 
 ---
 

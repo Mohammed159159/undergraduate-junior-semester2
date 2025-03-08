@@ -1,0 +1,2 @@
+- Graphical Synthesis
+- [[Analytical procedure to synthesize the crank-shaper mechanism]]
