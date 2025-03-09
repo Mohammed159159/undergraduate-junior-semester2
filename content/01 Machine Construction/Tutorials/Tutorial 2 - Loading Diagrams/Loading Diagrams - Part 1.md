@@ -10,6 +10,8 @@ tags:
 > [!Note] [01:12](https://www.youtube.com/watch?v=qzFBndK_uLM&t=72#t=01:12.03) [[Types of Loading]]
 > ![[Pasted image 20250307222947.png]]
 
+^5b68e5
+
 ---
 
 > [!Note] [01:20](https://www.youtube.com/watch?v=qzFBndK_uLM&t=80#t=01:20) 

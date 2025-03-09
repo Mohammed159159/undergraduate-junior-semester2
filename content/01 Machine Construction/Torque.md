@@ -1,0 +1,2 @@
+- A [[Moment]] that tries to twist (cause [[Torsion]]) about the axis perpendicular to the cross-section
+- Tries to tear the material apart parallel to its cross-section

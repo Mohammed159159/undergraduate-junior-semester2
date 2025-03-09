@@ -1,0 +1,2 @@
+- Resistance to being torn apart parallel to the cross-section
+- From loads that try to tear the material apart parallel to its cross-section ([[Direct Shear]], [[Transverse Shear]], [[Torque]])

@@ -1,0 +1,2 @@
+- A [[Direct Force]] that is perpendicular to the cross-section
+- Tries to tear the material apart perpendicular to its cross-section

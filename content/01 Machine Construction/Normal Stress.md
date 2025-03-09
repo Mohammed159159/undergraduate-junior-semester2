@@ -1,1 +1,3 @@
+- Resistance to being torn apart perpendicular to the cross-section
+- From loads that try to tear the material apart perpendicular to its cross-section ([[Normal Force]], [[Bending Moment]])
 - [[Normal Stress Distribution]]

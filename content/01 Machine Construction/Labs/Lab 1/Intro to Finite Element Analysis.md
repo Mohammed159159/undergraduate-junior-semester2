@@ -15,7 +15,7 @@ tags:
 
 ---
 
-> [!Note] [09:18](https://www.youtube.com/watch?v=MYz8zpck3yo&t=559#t=09:18.95) [[CAD]]
+> [!Note] [09:18](https://www.youtube.com/watch?v=MYz8zpck3yo&t=559#t=09:18.95) [[College/Undergraduate - Junior - S2/01 Machine Construction/CAD]]
 
 ---
 

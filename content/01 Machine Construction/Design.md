@@ -1,3 +1,3 @@
 - [[Design Relation]]
 - [[Design Process]]
-- [[Design Factors]]
+- [[Design factors]]

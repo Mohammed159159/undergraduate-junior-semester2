@@ -1,0 +1,2 @@
+- A [[Moment]] that tries to rotate (bend) about the axes of the cross-section
+- Tries to tear the material apart perpendicular to its cross-section

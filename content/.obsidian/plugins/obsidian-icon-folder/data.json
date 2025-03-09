@@ -38,6 +38,6 @@
   "02 Mechanics of Machines": "LiWashingMachine",
   "03 Casting and Welding": "FabGripfire",
   "04 Fluid Mechanics and Turbo Machinery": "FabDrupal",
-  "05 Electronics of Instrumentation": "LiCircuitBoard",
-  "06 Project Management": "LiGitGraph"
+  "06 Project Management": "LiGitGraph",
+  "05 Electronics for Instrumentation": "LiCircuitBoard"
 }
