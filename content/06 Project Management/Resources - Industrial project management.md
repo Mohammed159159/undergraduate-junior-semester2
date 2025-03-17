@@ -3,6 +3,7 @@
 
 ♦Lecture notes :
 - https://drive.google.com/file/d/1uxzdMCzaRq3ovjKcj3nzd8VxhzMklQxW/view?usp=drivesdk
+- https://drive.google.com/drive/folders/1CRZpLyrrJ0yovztm4DuqQcXxYyujRDiu
 
 ♦lectures videos : 
 - https://youtube.com/playlist?list=PLv0YmUz1fX40-ouklgIJVQMLFsgaIqoSc&si=k5gJ_lvCYurOEHUe
@@ -12,6 +13,9 @@
 
 ♦Tutorials videos :
 - https://youtube.com/playlist?list=PLJY6IpXCY9VKZ0dA98u5OoyadZad55DUB&si=pj8nqdK6pe5ZVPRN
+
+♦Extra playlist:
+https://www.youtube.com/playlist?list=PLm877Wx3hfJ1nhn_N_yBuqb6roMkV8Ltk
  
 ♦ All Sheets : 
 - https://drive.google.com/file/d/1WSMUqBFQ7YtTXrmo3e69hQpE4SvNflDa/view?usp=drivesdk

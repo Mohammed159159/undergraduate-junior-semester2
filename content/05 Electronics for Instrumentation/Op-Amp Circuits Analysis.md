@@ -1,0 +1,4 @@
+- Systematic method
+	- Put unknown voltages and current
+	- Use KCL / KVL
+- Use known transfer functions for known [[Op-Amp Circuits]] to make the analysis easier

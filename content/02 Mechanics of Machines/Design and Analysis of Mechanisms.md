@@ -1,0 +1,4 @@
+- Understand the concept of [[Design and Analysis]]
+- Tools for [[Synthesis of Mechanisms]] and [[Analysis of Mechanisms]]
+	- [[Extreme positions]]
+	- [[Quick-return ratio]]

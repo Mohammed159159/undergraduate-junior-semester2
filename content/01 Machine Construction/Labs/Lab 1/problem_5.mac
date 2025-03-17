@@ -1,0 +1,63 @@
+    /filnam, PROBLEM_5
+    /title, PROBLEM_5
+    /prep7
+
+    !elements
+    et,1,link180			! Element type no. 1 is LINK1
+
+    !real constants
+    r,1,78.54*5			! Real constant number 1 (cross sectional area)
+
+    !material properties
+    mp,ex,1,1e6			! Material Propeties: E for material no. 1
+
+    !nodal locations
+    n,1,0,0,0			! Nodal location 1
+    n,2,600*5,0,0		! Nodal location 2
+    n,3,1200*5,0,0		! Nodal location 3
+    n,4,1200*5,400*5,0	! Nodal location 4
+    n,5,600*5,400*5,0	! Nodal location 5
+    n,6,0,400*5,0	    ! Nodal location 5
+
+
+
+
+    !element connections
+    real,1
+    en,1,1,2			! Element 1 connects nodes 1 & 2
+    en,2,2,3			! Element 2 connects nodes 2 & 3
+    en,3,3,4			! Element 2 connects nodes 3 & 4
+    en,4,4,5			! Element 2 connects nodes 4 & 5
+    en,5,5,6			! Element 2 connects nodes 5 & 6
+    en,6,6,1			! Element 2 connects nodes 6 & 1
+    en,7,2,5			! Element 2 connects nodes 2 & 5
+    en,8,1,5            ! Element 2 connects nodes 1 & 5
+    en,9,3,5            ! Element 2 connects nodes 3 & 5
+
+    !nodal constraints
+    d,1,ux,0			! node 1 allowed no displacement in x-dir
+    d,1,uy,0			! node 1 allowed no displacement in y-dir
+    d,3,ux,0			! node 3 allowed no displacement in x-dir
+    d,3,uy,0			! node 3 allowed no displacement in y-dir
+
+    !loading
+    f,6,fx,10000*5			! force on node 2 in x-dir is 10000
+    f,5,fy,-20000*5			! force on node 2 in y-dir is 20000
+
+    finish
+
+    /solu				! select static load solution
+    antype,static
+    solve
+    save
+    finish
+
+    /post1				! start the post processor
+
+    etable,Force,SMISC,1		! create table for element axial forces
+    etable,Stress,LS,1		! create table for element stress values
+
+    /output,resultsfile,dat		! define a file, resultsfile.dat, in the working directory
+
+    prnsol,u			!write the nodal solution to file
+    pretab,Force,Stress

@@ -1,4 +1,4 @@
 ---
 tags:
-  - area
+  - domains/tech
 ---

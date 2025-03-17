@@ -7,7 +7,7 @@ tags:
 
 ---
 
-> [!Note] [10:32](https://www.youtube.com/watch?v=RMINw5r4lVU&t=632#t=10:32.34) [[Design Relation]]
+> [!Note] [10:32](https://www.youtube.com/watch?v=RMINw5r4lVU&t=632#t=10:32.34) [[Mechanical Design Relation]]
 > ![[Pasted image 20250217151356.png]]
 > - +Manufacturing method
 

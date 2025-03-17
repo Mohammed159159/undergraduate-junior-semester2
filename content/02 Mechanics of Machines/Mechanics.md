@@ -1,6 +1,6 @@
 ---
 tags:
-  - area
+  - domains/tech
 ---
 
 - [[Mechanics of Machines]]

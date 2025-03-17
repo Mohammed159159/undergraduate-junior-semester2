@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b475fe4211f343c7",
+        "id": "41544677f941e208",
         "type": "tabs",
         "children": [
           {
-            "id": "ca0ef8bf7f5584c1",
+            "id": "2c61d23f8efba203",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"01 Machine Construction/\"  question",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Mechanics of Machines/Four-bar mechanism.md",
+                "file": "01 Machine Construction/Lectures/Lectures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Four-bar mechanism"
+              "title": "Outline of Lectures"
             }
           }
         ],
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Mechanics of Machines/Four-bar mechanism.md",
+                "file": "01 Machine Construction/Lectures/Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Four-bar mechanism"
+              "title": "Backlinks for Lectures"
             }
           },
           {
@@ -236,52 +236,53 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "ca0ef8bf7f5584c1",
+  "active": "2c61d23f8efba203",
   "lastOpenFiles": [
-    "01 Machine Construction/Direct Shear.md",
-    "01 Machine Construction/Tutorials/Tutorial 4 - Torsion/Tutorial 4 - Torsion Part 1.md",
-    "04 Fluid Mechanics and Turbo Machinery/Shear Force.md",
-    "Meta/assets/Pasted image 20250310004645.png",
-    "Meta/assets/Excalidraw/Drawing 2025-03-10 00.43.01.excalidraw.md",
-    "Meta/assets/Pasted image 20250310004536.png",
-    "Meta/assets/Pasted image 20250310004352.png",
-    "01 Machine Construction/Types of Stress.md",
-    "01 Machine Construction/Normal Force.md",
-    "01 Machine Construction/Transverse Shear.md",
-    "01 Machine Construction/Direct Force.md",
-    "01 Machine Construction/Bending Moment.md",
-    "01 Machine Construction/Shear Stress.md",
-    "01 Machine Construction/Shear.md",
-    "04 Fluid Mechanics and Turbo Machinery/Drag Force.md",
-    "Untitled.md",
-    "01 Machine Construction/Normal Stress.md",
-    "01 Machine Construction/Torque.md",
-    "01 Machine Construction/Moment.md",
-    "01 Machine Construction/Types of Loading.md",
-    "01 Machine Construction/Torsion.md",
+    "01 Machine Construction/Tutorials/Tutorial 1 - Properties of Area/Tutorial 1 (& lab 1).md",
     "01 Machine Construction/Tutorials/Tutorial 1 - Properties of Area/Tutorial 1 - Properties of Area.md",
-    "01 Machine Construction/Tutorials/Tutorial 4 - Torsion",
     "01 Machine Construction/Tutorials/Tutorials.md",
-    "01 Machine Construction/Design.md",
-    "01 Machine Construction/Labs/Lab 1/Intro to Finite Element Analysis.md",
-    "01 Machine Construction/How is the 𝐂𝐨𝐧𝐜𝐞𝐩𝐭 𝐨𝐟 𝐃𝐞𝐠𝐫𝐞𝐞𝐬 𝐨𝐟 𝐅𝐫𝐞𝐞𝐝𝐨𝐦 (𝐃𝐎𝐅) defined in Finite Element Analysis (𝐅𝐄𝐀).md",
-    "01 Machine Construction/Tutorials/Tutorial 3 - Stress Analysis/Tutorial 3 - Stress Part 1.md",
-    "01 Machine Construction/Tutorials/Tutorial 3 - Stress Analysis/Tutorial  3 - Stress Part 2.md",
-    "Meta/assets/Pasted image 20250309010729.png",
-    "Meta/assets/Pasted image 20250309004907.png",
-    "Meta/assets/Pasted image 20250308222953.png",
-    "Meta/assets/Pasted image 20250308222228.png",
-    "Meta/assets/Pasted image 20250308222119.png",
-    "Meta/assets/Pasted image 20250308222059.png",
-    "Meta/assets/Pasted image 20250308222018.png",
-    "01 Machine Construction/Labs/Report.1.pdf",
-    "01 Machine Construction/Labs/Lab 2",
-    "01 Machine Construction/Labs/Lab 1",
-    "01 Machine Construction/Lectures/Solved Example 4 (1).pdf",
-    "01 Machine Construction/Lectures/solved example 3 (1).pdf",
-    "01 Machine Construction/Lectures/Solved example 2 (2).pdf",
-    "02 Mechanics of Machines/Assignments/Antoun Adel shoukry.pdf",
-    "02 Mechanics of Machines/Assignments/2200724 2.pdf",
-    "02 Mechanics of Machines/Assignments/2200724.pdf"
+    "01 Machine Construction/Tutorials/Tutorial 3 - Stress/Tutorial 3 - Stress Part 3.md",
+    "01 Machine Construction/Tutorials/Tutorial 3 - Stress/Tutorial 3 - Stress Part 4.md",
+    "Meta/assets/Pasted image 20250318004232.png",
+    "Meta/assets/Pasted image 20250318002328.png",
+    "Meta/assets/Pasted image 20250318001207.png",
+    "01 Machine Construction/Tutorials/Tutorial 5 - Principal and Inclined Plane Stress/Tutorial 5 - Principal And Inclined Plane Stresses Part 2.md",
+    "01 Machine Construction/Tutorials/Tutorial 5 - Principal and Inclined Plane Stress/Tutorial 5 - Principal And Inclined Plane Stresses Part 1.md",
+    "Meta/assets/Pasted image 20250317233750.png",
+    "Meta/assets/Pasted image 20250317233358.png",
+    "Meta/assets/Pasted image 20250317233109.png",
+    "01 Machine Construction/Stress Analysis.md",
+    "01 Machine Construction/Tutorials/Tutorial 3 - Stress/Tutorial 3 - Stress Part 1.md",
+    "01 Machine Construction/State of Stress.md",
+    "02 Mechanics of Machines/Element with Maximum Stress.md",
+    "01 Machine Construction/Element.md",
+    "01 Machine Construction/Loading Conditions.md",
+    "01 Machine Construction/Critical Section.md",
+    "01 Machine Construction/Loading Diagrams.md",
+    "Meta/assets/Pasted image 20250317230038.png",
+    "01 Machine Construction/Tutorials/Tutorial 5 - Principal and Inclined Plane Stress/Tutorial 5 - Principal And Inclined Plane Stresses Part 3.md",
+    "Meta/assets/Pasted image 20250317224148.png",
+    "Meta/assets/Pasted image 20250317223655.png",
+    "Meta/assets/Pasted image 20250317223558.png",
+    "03 Casting and Welding/Midterms/spring 23.pdf",
+    "03 Casting and Welding/Midterms/fall 23.pdf",
+    "03 Casting and Welding/Midterms/spring 22.pdf",
+    "03 Casting and Welding/Midterms/fall 24 .pdf",
+    "03 Casting and Welding/Midterms/spring 24 .pdf",
+    "03 Casting and Welding/Midterms",
+    "03 Casting and Welding/New folder",
+    "01 Machine Construction/Principal And Inclined Plane Stresses.md",
+    "01 Machine Construction/Stress.md",
+    "05 Electronics for Instrumentation/Bode Plot.md",
+    "05 Electronics for Instrumentation/Midterm ''Revision'' Resources.md",
+    "05 Electronics for Instrumentation/Electronics.md",
+    "05 Electronics for Instrumentation/Op-Amp Circuits Analysis.md",
+    "05 Electronics for Instrumentation/Lectures/Lectures.md",
+    "05 Electronics for Instrumentation/Tutorials/Tutorial 1 - Op-Amps.md",
+    "05 Electronics for Instrumentation/Tutorials/Tutorial 3 - Frequency Response of Filters Part 2.md",
+    "05 Electronics for Instrumentation/Tutorials/Tips.md",
+    "College/Undergraduate - Junior - S2/01 Machine Construction/desktop.ini",
+    "College/Undergraduate - Junior - S2/desktop.ini",
+    "01 Machine Construction/Tutorials/Tutorial 6 - Transmission Shafts/desktop.ini"
   ]
 }

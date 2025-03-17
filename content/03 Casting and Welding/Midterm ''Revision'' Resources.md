@@ -1,0 +1,4 @@
+- [Metal Casting course - YouTube](https://www.youtube.com/playlist?list=PLsdR2x6kobRyt7xkiVNna7D5sed_0G643)
+- [Lecture Slides - Google Drive](https://drive.google.com/drive/folders/1pRs0bQ8Go2R91kVvpfu5qfNN2raBHrQj)
+- [Midterm - Google Drive](https://drive.google.com/drive/folders/18oZ1vfOGEDBLDBQSQwW-E4rHTynxB8eE)
+- [Mallazem](https://drive.google.com/drive/folders/1vJTAh0mA8wsJluyQVmUFGtRyjqjpLe2a)

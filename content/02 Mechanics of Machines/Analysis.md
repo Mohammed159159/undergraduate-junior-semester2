@@ -3,7 +3,7 @@
 	- [[Analytical Analysis]]
 - Uses [[Modeling]]
 - Applications
-	- [[Mechanism Analysis]]
+	- [[Analysis of Mechanisms]]
 
 
 > [[Value of an engineer]]

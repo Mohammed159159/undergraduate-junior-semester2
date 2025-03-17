@@ -1,0 +1,2 @@
+- Against [[Bending]]
+- Against [[Torsion]]

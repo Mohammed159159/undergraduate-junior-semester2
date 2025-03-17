@@ -1,1 +1,1 @@
-- [[Critical section]]
+- [[Critical Section]]

@@ -7,12 +7,12 @@ tags:
 
 ---
 
-> [!Note] [00:24](https://www.youtube.com/watch?v=8clcQiUIySc&t=25#t=24.66) Concept of [[Design]]
+> [!Note] [00:24](https://www.youtube.com/watch?v=8clcQiUIySc&t=25#t=24.66) Concept of [[Mechanical Design]]
 > ![[Pasted image 20250305174551.png]]
-> - Main goal of course is being able to create a functional [[Design]] that can withstand applied load ([[Stress Analysis]])
+> - Main goal of course is being able to create a functional [[Mechanical Design]] that can withstand applied load ([[Stress Analysis]])
 > - To perform stress analysis:
 > 	- Understand material properties (Structure and Material Properties)
-> 	- Calculate load ([[Loading diagrams]])
+> 	- Calculate load ([[Loading Diagrams]])
 > 	- Calculate size ([[Properties of Area]])
 > 	- Calculate stress
 

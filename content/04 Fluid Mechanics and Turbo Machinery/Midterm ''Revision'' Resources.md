@@ -1,0 +1,2 @@
+- [Lecture Slides - Google Drive](https://drive.google.com/drive/folders/1PmdfQ7oojfFsYYuUkkmB2LvKQX6EySx9)
+- [Midterms - Google Drive](https://drive.google.com/drive/folders/16mEY0xBA2DTypaEJYzSEnjjt0h6Goint)

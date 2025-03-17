@@ -1,0 +1,3 @@
+https://youtu.be/RVZYv5BK0kw?si=erK4hEUcX8C-bW9v
+
+[Lab_2&3D FEA-20250314_213732-Meeting Recording.mp4](https://engasuedu.sharepoint.com/sites/MDP112sUG2018-MachineConstruction37138/_layouts/15/stream.aspx?id=%2Fsites%2FMDP112sUG2018%2DMachineConstruction37138%2FShared%20Documents%2FGeneral%2FRecordings%2FLab%5F2%263D%20FEA%2D20250314%5F213732%2DMeeting%20Recording%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb5c4c52d%2D7180%2D4e8a%2D87bb%2D81274c2fd103&isDarkMode=true)

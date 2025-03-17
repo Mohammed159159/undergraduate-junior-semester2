@@ -1,3 +1,4 @@
+
 ```embed
 title: "Introduction to Fluid Mechanics"
 image: "https://i.ytimg.com/vi/KiITeCYml0Q/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD0mQFmWShce8TSGAMp3xnQwGcufw&days_since_epoch=20137"

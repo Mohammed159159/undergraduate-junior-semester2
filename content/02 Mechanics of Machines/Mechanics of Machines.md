@@ -1,5 +1,5 @@
 ---
 tags:
-  - area
+  - domains/tech
 ---
 - [[Mechanisms]]

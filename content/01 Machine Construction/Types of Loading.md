@@ -1,5 +1,5 @@
 
-![[Loading Diagrams - Part 1#^5b68e5]]
+![[Tutorial 2 - Loading Diagrams Part 1#^5b68e5]]
 - [[Direct Force]]
 	- [[Normal Force]]
 	- [[Direct Shear]]

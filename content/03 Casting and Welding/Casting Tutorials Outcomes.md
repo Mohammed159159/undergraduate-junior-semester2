@@ -1,0 +1,5 @@
+- Section 1 - Pattern
+	- Parting line
+	- Allowances
+- Section 2 - Project Discussion + Welding Lab
+- Section 3 - Forces

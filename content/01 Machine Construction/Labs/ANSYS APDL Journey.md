@@ -1,0 +1,54 @@
+- Trying to interpret results
+- Not finding force or stress
+- Checking that the issue is with others as well
+- Verifying issue exists
+- Assuming script is missing the listing of force
+- Trying to find a reference
+- Using help tab to find documentation
+- Trying to navigate documentation
+- Finding [Ansys Product Help](https://ansyshelp.ansys.com/account/secured?returnurl=/Views/Secured/prod_page.html?pn=Mechanical%20APDL&prodver=25.1&lang=en) > [2.2. Performing a Static Analysis](https://ansyshelp.ansys.com/account/secured?returnurl=/Views/Secured/corp/v251/en/ans_str/Hlp_G_STR2_5.html)
+- Not finding how to show stress
+- Asking ChatGPT
+- Realizing script already lists forces but they do not exists
+- Trying to find log files
+- Searching using start
+- Finding empty `resultsfile.dat`
+- Checking location of results file
+- Finding more output files
+- Checking output files
+- Not finding a clue
+- Paying more attention to warning messages
+- Trying to solve them using ChatGPT
+- Realizing the problem is that the script does not calculate stress or forces to show them
+- Trying to list calculate and show them using ChatGPT
+- Checking documentation of [`PRNSOL`]([PRNSOL](https://www.mm.bme.hu/~gyebro/files/ans_help_v182/ans_cmd/Hlp_C_PRNSOL.html))
+- Not working
+- Googling people working with APDL scripts
+- Finding someone doing an analysis on trusses using APDL
+- Finding some [GUI videos](https://youtu.be/um3WKd0OV0g?si=gMlORwGp3lowzQOW)
+- Missing around with [some cool stuff](https://youtu.be/um3WKd0OV0g?si=kz3y_61rzwk-u6Z9)
+- Listing and plotting some results with deformation
+- Getting warning messages that indicate stress and force are not calculated
+- Trying to see someone [doing it with a script]([Truss FEA in Ansys Mechanical APDL | APDL Coding](https://www.youtube.com/watch?v=wmNpNhunnI4&ab_channel=UnOrthodoX))
+- Noticing LINK180
+- Changing link from LINK1 to LINK180
+- Getting a table for forces but with zero values
+- Thinking it didn't work
+- Googling warning messages
+- Finding a GUI way to [resolve it]([Truss FEA in Ansys Mechanical APDL | APDL Coding](https://www.youtube.com/watch?v=wmNpNhunnI4&ab_channel=UnOrthodoX))
+- Getting it to work!
+- Reverting the LINK180 to LINK1
+- Getting error messages of missing stress and force
+- Realizing issue might be with LINK1 type
+- Finding [Element Reference](https://www.mm.bme.hu/~gyebro/files/fea/ansys/ansys_12_element_reference.pdf)
+- Finding [LINK180](https://www.mm.bme.hu/~gyebro/files/ans_help_v182/ans_elem/Hlp_E_LINK180.html) and realizing this type can output stress and force, not the LINK1
+- Trying to get it to work from the script
+- Finding a [reddit post](https://www.reddit.com/r/ANSYS/comments/uz9hv8/why_am_i_getting_the_the_requested_s_data_is_not/)
+- Fining [this forum](https://blog.csdn.net/mahoon411/article/details/109839008) in the reddit post
+- Getting it to work from the script!
+- Trying to print the corresponding nodes of each element just link it worked with the GUI
+- Googling [ETABLE](https://www.mm.bme.hu/~gyebro/files/ans_help_v182/ans_cmd/Hlp_C_ETABLE.html)
+- Realizing its more economical to just label the links manually in word
+
+Extra: [Welcome to PyMAPDL — PyMAPDL](https://mapdl.docs.pyansys.com/)
+[How do you display code snippets in MS Word preserving format and syntax highlighting? - Stack Overflow](https://stackoverflow.com/questions/387453/how-do-you-display-code-snippets-in-ms-word-preserving-format-and-syntax-highlig)

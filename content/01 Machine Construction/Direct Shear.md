@@ -1,2 +1,2 @@
-- A [[Direct Force]] that is parallel to the lateral cross-section
-- Tries to tear the material apart parallel to its lateral cross-section
+- A [[Direct Force]] that is parallel to the longitudinal cross-section
+- Tries to tear the material apart parallel to its longitudinal cross-section

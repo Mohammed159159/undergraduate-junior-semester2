@@ -4,11 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "0485008b9ee302ee",
+        "id": "2a2b80aafb486c4b",
         "type": "tabs",
         "children": [
           {
-            "id": "36dd0fe85e504031",
+            "id": "6e2011a99df68980",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "-tag:#resources  ",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.400763358778626,
+                  "repelStrength": 18.1679389312977,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.014117413295849,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d3a0e68437a51f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Electronics for Instrumentation/Tutorials/Tips.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tips"
+            }
+          },
+          {
+            "id": "f78f2d8034928cb4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +77,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,7 +106,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "\"Example",
+            "query": "Scotch",
             "matchingCase": false,
             "explainSearch": true,
             "collapseAll": false,
@@ -106,6 +167,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "01 Machine Construction/Tutorials/Tutorials.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,46 +231,45 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "36dd0fe85e504031",
+  "active": "d3a0e68437a51f20",
   "lastOpenFiles": [
-    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms.md",
-    "Solved Examples on Properties of Area.md",
-    "01 Machine Construction/Tutorials/Properties of Area.md",
-    "01 Machine Construction/Tutorials/Tutorial 1/Tutorial 1 (& lab 1).md",
-    "02 Mechanics of Machines/Sheets/Sheet 1.md",
-    "index.md",
-    "ASUPEDIA Forum.md",
-    "01 Machine Construction/Properties of Area.md",
-    "02 Mechanics of Machines/Graphical Synthesis of Mechanisms.md",
-    "02 Mechanics of Machines/Lectures/Lecture 3 - Graphical Synthesis of Mechanisms/Chapter 2.pdf - Google Drive.md",
-    "02 Mechanics of Machines/Lectures/Lecture 3 - Graphical Synthesis of Mechanisms/Graphical Synthesis of Mechanisms.md",
-    "02 Mechanics of Machines/Lectures/Lecture 3 - Graphical Synthesis of Mechanisms/Follow Graphical Synthesis of Mechanisms.md",
-    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Mechanisms 2.md",
+    "02 Mechanics of Machines/Labs/Lab1-Building Mechanisms.pdf",
+    "05 Electronics for Instrumentation/Tutorials/Tips.md",
+    "General/Ramadan Schedule.md",
+    "06 Project Management/Midterm ''Revision'' Resources.md",
+    "01 Machine Construction/Tutorials/Tutorials.md",
+    "03 Casting and Welding/Midterm ''Revision'' Resources.md",
+    "04 Fluid Mechanics and Turbo Machinery/Midterm ''Revision'' Resources.md",
+    "05 Electronics for Instrumentation/Midterm ''Revision'' Resources.md",
+    "02 Mechanics of Machines/Lectures/Lecture 5 - Velocity Analysis of Mechanisms/Lecture 5 - Velocity Analysis of Mechanisms.md",
+    "General/Resources.md",
     "02 Mechanics of Machines/Four Bar Chain Mechanism  Grashof's Law  Inversion Of Four Bar Chain.md",
+    "02 Mechanics of Machines/Four-bar mechanism.md",
+    "02 Mechanics of Machines/Lectures/Lecture 4 - Positional Analysis of Mechanisms/Lecture 4.1 - Positional Analysis.md",
+    "02 Mechanics of Machines/Synthesis of Mechanisms.md",
+    "02 Mechanics of Machines/Mechanisms.md",
+    "02 Mechanics of Machines/Types of Mechanisms.md",
+    "02 Mechanics of Machines/Lectures/Lecture 3 - Synthesis and Analysis of Mechanisms/Chapter 2.pdf - Google Drive.md",
+    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Chapter 1-b.pdf - Google Drive.md",
     "Meta/assets/Exercise 2.pdf",
-    "02 Mechanics of Machines/Sheets/Sheet 2.md",
-    "02 Mechanics of Machines/Scotch yoke - Wikipedia.md",
+    "02 Mechanics of Machines/Design and Analysis.md",
+    "02 Mechanics of Machines/Design and Analysis of Mechanisms.md",
+    "02 Mechanics of Machines/Quick-return ratio.md",
+    "02 Mechanics of Machines/Extreme positions.md",
+    "02 Mechanics of Machines/Analysis of Mechanisms.md",
+    "02 Mechanics of Machines/Analysis.md",
+    "02 Mechanics of Machines/Graphical Analysis.md",
+    "01 Machine Construction/Design.md",
+    "Meta/assets/Sheet 1.pdf",
+    "05 Electronics for Instrumentation/Sheets/Sheet 2 - Op-Amps.pdf",
+    "06 Project Management/Lectures/2025 Spring PM Lecture Notes.pdf",
+    "01 Machine Construction/Tutorials/Tutorial 5 - Principal and Inclined Plane Stress",
     "Meta/assets/Screenshot_2025-03-06-10-04-53-209_com.google.android.youtube.jpg",
     "Meta/assets/Screenshot_2025-03-06-09-51-45-536_com.google.android.youtube.jpg",
-    "02 Mechanics of Machines/Lectures/Lectures.md",
-    "General/Resources.md",
-    "03 Casting and Welding/Resources - Casting & Welding.md",
-    "Meta/pdfs/Mechanics of Materials 7th Edition.md",
-    "06 Project Management/Lectures/2025 Spring PM Lecture Notes.pdf",
     "06 Project Management/Sheets/2025 PM-All Sheets.pdf",
-    "03 Casting and Welding/Labs/Lab 2 - Welding.md",
-    "01 Machine Construction/Textbooks/Mechanics of Materials 7th.pdf - Google Drive.md",
-    "02 Mechanics of Machines/Labs/Lab1-Building Mechanisms.pdf",
-    "03 Casting and Welding/Labs/Labs.md",
-    "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision/Materials.md",
-    "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision/Lab 1.md",
     "02 Mechanics of Machines/Sheets/Exercise%201.pdf",
-    "02 Mechanics of Machines/Condition of  ideal steering.md",
     "05 Electronics of Instrumentation/Sheets/Sheet 1 - Op-Amps.pdf",
     "03 Casting and Welding/Labs/Lab 1 - Casting Basics Revision",
-    "03 Casting and Welding/Labs",
-    "01 Machine Construction/Lectures/Lecture 1 - Introduction",
-    "01 Machine Construction/Lectures",
     "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.19_b377eea9.jpg",
     "Meta/assets/WhatsApp Image 2025-01-14 at 18.29.32_a02ed705.jpg",
     "General/Final.jpg",

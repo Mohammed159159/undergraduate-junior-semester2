@@ -1,0 +1,12 @@
+- [Lecture 1 ](https://youtu.be/RMINw5r4lVU?si=54acoTmfvABJJaFa)
+- [Lecture 2](https://youtu.be/AybUvjuHWeo?si=tuninORkwv0EUDAm)
+- Page 348
+- [Sec 3 - Internal Forces](https://youtu.be/VKEALATZt_k?si=nXqtHyOv8Gr0mki6)
+- [Lecture 3](https://youtu.be/kopzOAVys0A?si=19ea3wjWNB8ouU0l)
+- [Recorded Sec](https://engasuedu.sharepoint.com/sites/MDP112sUG2018-MachineConstruction37138/Shared%20Documents/General/Recordings/Lab%201-20250220_185526-Meeting%20Recording.mp4?web=1)
+- [Sec 7 - Shear Stress](https://youtu.be/1htfOFRibcU?si=uHRlumdo8qYMvg5Q)
+- [Sec 4 - Normal Stress](https://youtu.be/4Pg7tSNFXtE?si=ag03Qj0LA8M2310T)
+- [Sec 11 - Combined Stress](https://youtu.be/-BOussMetJg?si=63qW9fXMICRl4sG8)
+- [Se 10 - Torsional Stress](https://youtu.be/uJ7tqGjcKgE?si=RWa3lUmITSiIQG59)
+- [Theories of Elastic Failure](https://youtu.be/4ejFxAwRowc?si=_6qpyXA6SBvA0isE)
+> [!important] https://lms.eng.asu.edu.eg/mod/url/view.php?id=165322

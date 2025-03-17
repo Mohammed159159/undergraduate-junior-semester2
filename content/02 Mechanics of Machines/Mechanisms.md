@@ -1,12 +1,10 @@
 ---
 tags:
-  - area
+  - domains/tech
 ---
 
+- [[Definitions]]
 - [[Inversion of a Mechanism]]
-- [[Mechanism Analysis]]
+- [[Analysis of Mechanisms]]
 - [[Synthesis of Mechanisms]]
-- [[Four-bar mechanism]]
-- [[Slider-crank mechanism]]
-- [[Double slider mechanism]]
-- [[Ackermann steering]]
+- [[Types of Mechanisms]]

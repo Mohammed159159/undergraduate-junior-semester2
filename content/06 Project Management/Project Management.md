@@ -1,0 +1,4 @@
+---
+tags:
+  - domains/non-tech
+---

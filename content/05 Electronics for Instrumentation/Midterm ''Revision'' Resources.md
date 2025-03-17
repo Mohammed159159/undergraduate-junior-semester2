@@ -1,0 +1,3 @@
+- [Electronics for Instrumentation Tutorial - YouTube](https://www.youtube.com/playlist?list=PL1bdH0qKnLuL1TOJPiKDxoolzEZ4VEIPi)
+- [Lecture Slides - Google Drive](https://drive.google.com/drive/folders/1sCWTgVBy25fhtH0qK5K9tqI_IHyQPcY4)
+- [Midterms - Google Drive](https://drive.google.com/drive/folders/1s_TI1iajDrKbfvZEK2mzg9qD23_yhNwH)
