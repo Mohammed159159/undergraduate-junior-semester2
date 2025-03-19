@@ -4,34 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0ec8d190a4e2090e",
+        "id": "e96aefa97dead821",
         "type": "tabs",
         "children": [
           {
-            "id": "d4998f9bdcfd60b0",
+            "id": "af798f82804c1552",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Machine Construction/Critical Section.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Critical Section"
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -63,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"01 Machine Construction/\"  question",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "right": {
     "id": "c2280210262366b6",
@@ -248,8 +236,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "d4998f9bdcfd60b0",
+  "active": "af798f82804c1552",
   "lastOpenFiles": [
+    "01 Machine Construction/Midterms/Stress 1  (1).pdf",
+    "06 Project Management/Lectures/2025 Spring PM Lecture Notes.pdf",
+    "06 Project Management/Critical Path.md",
+    "06 Project Management/What is Total Float (Total Slack) and how to calculate it in a network diagram.md",
+    "06 Project Management/What is Free Float (Free Slack) and how to calculate it in a network diagram.md",
+    "06 Project Management/Entrepreneurship.md",
+    "06 Project Management/Project Scheduling - PERTCPM  Finding Critical Path.md",
+    "06 Project Management/Project Management Finding the Critical Path(s) and Project Duration.md",
+    "06 Project Management/Resources - Industrial project management.md",
+    "06 Project Management/Practice Drawing Activity on Arrow Diagrams - Construction Scheduling.md",
+    "06 Project Management/How to draw an AOA network diagram.md",
+    "06 Project Management/Activity on Arrow.md",
+    "01 Machine Construction/Midterms/04-A-MDP212s_Midterm_Exam_Sheet (4).pdf",
+    "06 Project Management/Midterm ''Revision'' Resources.md",
     "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
     "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Lecture 2.1 - Mechanisms.md",
     "01 Machine Construction/Critical Section.md",
@@ -258,7 +260,6 @@
     "03 Casting and Welding/Labs/Lab 3 - Sand Control/Lab 3 - Sand Control.md",
     "02 Mechanics of Machines/Lectures/Lecture 5 - Velocity Analysis of Mechanisms/Lecture 5 - Velocity Analysis of Mechanisms.md",
     "02 Mechanics of Machines/Lectures/Lecture 4 - Positional Analysis of Mechanisms/Lecture 4 - Positional Analysis.md",
-    "06 Project Management/Midterm ''Revision'' Resources.md",
     "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorial 3 - Hydrostatic Forces/Tutorial 3 - Hydrostatic Forces.md",
     "03 Casting and Welding/Labs/Lab 2 - Welding/Materials and Instructions.md",
     "03 Casting and Welding/Labs/Labs.md",
@@ -268,16 +269,6 @@
     "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorial 2 - Hydrostatic Pressure/Tutorial 2 - Hydrostatic Pressure.md",
     "Meta/assets/Pasted image 20250318235157.png",
     "Meta/assets/Pasted image 20250218143050.png",
-    "04 Fluid Mechanics and Turbo Machinery/Viscosity.md",
-    "04 Fluid Mechanics and Turbo Machinery/Understanding Viscosity.md",
-    "04 Fluid Mechanics and Turbo Machinery/Hydrostatic Pressure.md",
-    "04 Fluid Mechanics and Turbo Machinery/Hydrostatic Forces.md",
-    "04 Fluid Mechanics and Turbo Machinery/Rigid Body Rotation.md",
-    "04 Fluid Mechanics and Turbo Machinery/Hydrostatic Forces on Submerged Curved Surfaces.md",
-    "04 Fluid Mechanics and Turbo Machinery/Centripetal Acceleration.md",
-    "04 Fluid Mechanics and Turbo Machinery/Hydrostatic Forces on Submerged Surfaces.md",
-    "04 Fluid Mechanics and Turbo Machinery/KVL.md",
-    "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorials.md",
     "Meta/assets/Pasted image 20250318231533.png",
     "Meta/assets/Pasted image 20250318231256.png",
     "Meta/assets/Pasted image 20250318225710.png",
@@ -286,15 +277,12 @@
     "Meta/assets/Pasted image 20250318224004.png",
     "04 Fluid Mechanics and Turbo Machinery/Midterms/M24_MEP221s_Midterm.pdf",
     "04 Fluid Mechanics and Turbo Machinery/Midterms/S24_MEP221s_Midterm.pdf",
-    "01 Machine Construction/Tutorials/Tutorial 6 - Transmission Shafts/Tutorial 6 - Transmission Shafts Part 2.md",
     "Meta/assets/Pasted image 20250318222439.png",
     "03 Casting and Welding/Midterms/spring 23.pdf",
     "03 Casting and Welding/Midterms/fall 23.pdf",
     "03 Casting and Welding/Midterms/spring 22.pdf",
     "03 Casting and Welding/Midterms/fall 24 .pdf",
     "03 Casting and Welding/Midterms/spring 24 .pdf",
-    "03 Casting and Welding/Midterms",
-    "03 Casting and Welding/New folder",
-    "College/Undergraduate - Junior - S2/01 Machine Construction/desktop.ini"
+    "03 Casting and Welding/Midterms"
   ]
 }
