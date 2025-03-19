@@ -62,7 +62,7 @@ tags:
 >   
 > > [!info] There are three [[Types of motion]]
 > 
->  > [!warning] Pay attention to the relation between [[kinematic diagram]] and [[construction drawing]]
+>  > [!warning] Pay attention to the relation between [[Kinematic diagram]] and [[Construction drawing]]
 >   
 >   > Fixing link A will not give a new inversion because it will be the same as fixing B only giving vertically reciprocating Scotch yoke mechanism
 

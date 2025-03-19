@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ec3e1511c810f49",
+        "id": "0ec8d190a4e2090e",
         "type": "tabs",
         "children": [
           {
-            "id": "7f412cb4ac9e1f68",
+            "id": "d4998f9bdcfd60b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
+                "file": "01 Machine Construction/Critical Section.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 1-a.pdf - Google Drive"
-            }
-          },
-          {
-            "id": "faf6dc2da62a5dea",
-            "type": "leaf",
-            "state": {
-              "type": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpnSlMzWm9tX2M0SXFFVTlBTVliZWxOV3B5dTVURG1m",
-              "state": {},
-              "icon": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpnSlMzWm9tX2M0SXFFVTlBTVliZWxOV3B5dTVURG1m",
-              "title": "Spring'25 Drive"
+              "title": "Critical Section"
             }
           }
         ]
@@ -258,7 +248,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "7f412cb4ac9e1f68",
+  "active": "d4998f9bdcfd60b0",
   "lastOpenFiles": [
     "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
     "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Lecture 2.1 - Mechanisms.md",
