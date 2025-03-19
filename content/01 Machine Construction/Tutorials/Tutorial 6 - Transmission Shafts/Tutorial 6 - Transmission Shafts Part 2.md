@@ -27,6 +27,7 @@ tags:
 > 
 >  > Calculating [[Angle of Twist]]
 > > ![[Pasted image 20250316233443.png]]
+> ![[Modulus of Rigidity]]
 > 
 
 ---

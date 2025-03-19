@@ -1,3 +1,3 @@
 
-![[Lecture 4.1 - Positional Analysis#^39fdf4]]
+![[Lecture 4 - Positional Analysis#^39fdf4]]
 

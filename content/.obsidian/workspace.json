@@ -4,21 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "41544677f941e208",
+        "id": "2ec3e1511c810f49",
         "type": "tabs",
         "children": [
           {
-            "id": "2c61d23f8efba203",
+            "id": "7f412cb4ac9e1f68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 1-a.pdf - Google Drive"
+            }
+          },
+          {
+            "id": "faf6dc2da62a5dea",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpnSlMzWm9tX2M0SXFFVTlBTVliZWxOV3B5dTVURG1m",
+              "state": {},
+              "icon": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVpnSlMzWm9tX2M0SXFFVTlBTVliZWxOV3B5dTVURG1m",
+              "title": "Spring'25 Drive"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -75,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "right": {
     "id": "c2280210262366b6",
@@ -236,34 +258,46 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "2c61d23f8efba203",
+  "active": "7f412cb4ac9e1f68",
   "lastOpenFiles": [
-    "01 Machine Construction/Tutorials/Tutorial 1 - Properties of Area/Tutorial 1 (& lab 1).md",
-    "01 Machine Construction/Tutorials/Tutorial 1 - Properties of Area/Tutorial 1 - Properties of Area.md",
-    "01 Machine Construction/Tutorials/Tutorials.md",
-    "01 Machine Construction/Tutorials/Tutorial 3 - Stress/Tutorial 3 - Stress Part 3.md",
-    "01 Machine Construction/Tutorials/Tutorial 3 - Stress/Tutorial 3 - Stress Part 4.md",
-    "Meta/assets/Pasted image 20250318004232.png",
-    "Meta/assets/Pasted image 20250318002328.png",
-    "Meta/assets/Pasted image 20250318001207.png",
-    "01 Machine Construction/Tutorials/Tutorial 5 - Principal and Inclined Plane Stress/Tutorial 5 - Principal And Inclined Plane Stresses Part 2.md",
-    "01 Machine Construction/Tutorials/Tutorial 5 - Principal and Inclined Plane Stress/Tutorial 5 - Principal And Inclined Plane Stresses Part 1.md",
-    "Meta/assets/Pasted image 20250317233750.png",
-    "Meta/assets/Pasted image 20250317233358.png",
-    "Meta/assets/Pasted image 20250317233109.png",
-    "01 Machine Construction/Stress Analysis.md",
-    "01 Machine Construction/Tutorials/Tutorial 3 - Stress/Tutorial 3 - Stress Part 1.md",
-    "01 Machine Construction/State of Stress.md",
-    "02 Mechanics of Machines/Element with Maximum Stress.md",
-    "01 Machine Construction/Element.md",
-    "01 Machine Construction/Loading Conditions.md",
+    "02 Mechanics of Machines/Lectures/Lecture 1 - Definitions/Chapter 1-a.pdf - Google Drive.md",
+    "02 Mechanics of Machines/Lectures/Lecture 2 - Mechanisms/Lecture 2.1 - Mechanisms.md",
     "01 Machine Construction/Critical Section.md",
-    "01 Machine Construction/Loading Diagrams.md",
-    "Meta/assets/Pasted image 20250317230038.png",
-    "01 Machine Construction/Tutorials/Tutorial 5 - Principal and Inclined Plane Stress/Tutorial 5 - Principal And Inclined Plane Stresses Part 3.md",
-    "Meta/assets/Pasted image 20250317224148.png",
-    "Meta/assets/Pasted image 20250317223655.png",
-    "Meta/assets/Pasted image 20250317223558.png",
+    "02 Mechanics of Machines/Construction Drawing.md",
+    "02 Mechanics of Machines/Kinematic Diagram.md",
+    "03 Casting and Welding/Labs/Lab 3 - Sand Control/Lab 3 - Sand Control.md",
+    "02 Mechanics of Machines/Lectures/Lecture 5 - Velocity Analysis of Mechanisms/Lecture 5 - Velocity Analysis of Mechanisms.md",
+    "02 Mechanics of Machines/Lectures/Lecture 4 - Positional Analysis of Mechanisms/Lecture 4 - Positional Analysis.md",
+    "06 Project Management/Midterm ''Revision'' Resources.md",
+    "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorial 3 - Hydrostatic Forces/Tutorial 3 - Hydrostatic Forces.md",
+    "03 Casting and Welding/Labs/Lab 2 - Welding/Materials and Instructions.md",
+    "03 Casting and Welding/Labs/Labs.md",
+    "03 Casting and Welding/Labs/Lab 2 - Welding/Lab 2 - Welding.md",
+    "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorial 1 - Fluid Properties/Tutorial 1 - Fluid Properties.md",
+    "Meta/assets/Pasted image 20250218144507.png",
+    "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorial 2 - Hydrostatic Pressure/Tutorial 2 - Hydrostatic Pressure.md",
+    "Meta/assets/Pasted image 20250318235157.png",
+    "Meta/assets/Pasted image 20250218143050.png",
+    "04 Fluid Mechanics and Turbo Machinery/Viscosity.md",
+    "04 Fluid Mechanics and Turbo Machinery/Understanding Viscosity.md",
+    "04 Fluid Mechanics and Turbo Machinery/Hydrostatic Pressure.md",
+    "04 Fluid Mechanics and Turbo Machinery/Hydrostatic Forces.md",
+    "04 Fluid Mechanics and Turbo Machinery/Rigid Body Rotation.md",
+    "04 Fluid Mechanics and Turbo Machinery/Hydrostatic Forces on Submerged Curved Surfaces.md",
+    "04 Fluid Mechanics and Turbo Machinery/Centripetal Acceleration.md",
+    "04 Fluid Mechanics and Turbo Machinery/Hydrostatic Forces on Submerged Surfaces.md",
+    "04 Fluid Mechanics and Turbo Machinery/KVL.md",
+    "04 Fluid Mechanics and Turbo Machinery/Tutorials/Tutorials.md",
+    "Meta/assets/Pasted image 20250318231533.png",
+    "Meta/assets/Pasted image 20250318231256.png",
+    "Meta/assets/Pasted image 20250318225710.png",
+    "Meta/assets/Pasted image 20250318224606.png",
+    "Meta/assets/Pasted image 20250318224152.png",
+    "Meta/assets/Pasted image 20250318224004.png",
+    "04 Fluid Mechanics and Turbo Machinery/Midterms/M24_MEP221s_Midterm.pdf",
+    "04 Fluid Mechanics and Turbo Machinery/Midterms/S24_MEP221s_Midterm.pdf",
+    "01 Machine Construction/Tutorials/Tutorial 6 - Transmission Shafts/Tutorial 6 - Transmission Shafts Part 2.md",
+    "Meta/assets/Pasted image 20250318222439.png",
     "03 Casting and Welding/Midterms/spring 23.pdf",
     "03 Casting and Welding/Midterms/fall 23.pdf",
     "03 Casting and Welding/Midterms/spring 22.pdf",
@@ -271,18 +305,6 @@
     "03 Casting and Welding/Midterms/spring 24 .pdf",
     "03 Casting and Welding/Midterms",
     "03 Casting and Welding/New folder",
-    "01 Machine Construction/Principal And Inclined Plane Stresses.md",
-    "01 Machine Construction/Stress.md",
-    "05 Electronics for Instrumentation/Bode Plot.md",
-    "05 Electronics for Instrumentation/Midterm ''Revision'' Resources.md",
-    "05 Electronics for Instrumentation/Electronics.md",
-    "05 Electronics for Instrumentation/Op-Amp Circuits Analysis.md",
-    "05 Electronics for Instrumentation/Lectures/Lectures.md",
-    "05 Electronics for Instrumentation/Tutorials/Tutorial 1 - Op-Amps.md",
-    "05 Electronics for Instrumentation/Tutorials/Tutorial 3 - Frequency Response of Filters Part 2.md",
-    "05 Electronics for Instrumentation/Tutorials/Tips.md",
-    "College/Undergraduate - Junior - S2/01 Machine Construction/desktop.ini",
-    "College/Undergraduate - Junior - S2/desktop.ini",
-    "01 Machine Construction/Tutorials/Tutorial 6 - Transmission Shafts/desktop.ini"
+    "College/Undergraduate - Junior - S2/01 Machine Construction/desktop.ini"
   ]
 }

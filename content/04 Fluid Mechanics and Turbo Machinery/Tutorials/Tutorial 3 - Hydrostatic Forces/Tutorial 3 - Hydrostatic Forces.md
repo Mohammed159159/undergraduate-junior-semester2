@@ -46,7 +46,7 @@ tags:
 
 ---
 
-> [!Note] [52:18](https://www.youtube.com/watch?v=Zyn_xLa0Ae8&t=3138#t=52:18.29) [[Hydrostatic Forces on Curved Surfaces]]
+> [!Note] [52:18](https://www.youtube.com/watch?v=Zyn_xLa0Ae8&t=3138#t=52:18.29) [[Hydrostatic Forces on Submerged Curved Surfaces]]
 > ![[Pasted image 20250314094213.png]]
 > ![[Pasted image 20250314094228.png]]
 

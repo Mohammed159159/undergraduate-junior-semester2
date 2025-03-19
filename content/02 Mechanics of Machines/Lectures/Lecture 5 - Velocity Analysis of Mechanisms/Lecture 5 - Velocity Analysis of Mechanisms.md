@@ -24,6 +24,9 @@ tags:
 > [!Note] [01:45:13](https://www.youtube.com/watch?v=fTj4tjo26IM&t=6313#t=1:45:13.19) [[Relative velocity of two points on of a moving link]]
 > - Rigid link in rotation => Constant magnitude of position vector
 > - Elastic link OR Rigid link in translation => Variable magnitude of position vector
+>   
+>   
+> $$\Huge \frac{d}{dt}\vec{R}=R\omega \angle{(\theta + 90^\circ)} + \dot{R}\angle{\theta}$$
 
 ---
 
